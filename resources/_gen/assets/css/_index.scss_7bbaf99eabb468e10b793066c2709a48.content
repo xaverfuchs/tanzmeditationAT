@@ -17,12 +17,12 @@
   --section-light-text-color: #1A1A1A;
   /* Light section - background color */
   --section-light-bg-color: white;
-  --section-light-bg-pattern: url("/images/pattern-light4.png");
+  --section-light-bg-pattern: url("../images/pattern-light4.png");
   /* Dark section - text color */
   --section-dark-text-color: #c38b34;
   /* Dark section - background color */
   --section-dark-bg-color: #1A1A1A;
-  --section-dark-bg-pattern: url("/images/pattern-dark.png");
+  --section-dark-bg-pattern: url("../images/pattern-dark.png");
   /* Light&Dark section >quote. Suppressive color, compared to 'Light section - text color'*/
   --section-uni-quote: grey;
   /* Light&Dark section `code` a bit darker than 'Light section - background color' */
