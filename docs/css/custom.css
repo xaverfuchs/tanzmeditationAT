@@ -7,8 +7,7 @@ figure img {
 /* Bilder links und rechts: maximale Größe, aber bei Bedarf kleiner */
 figure.img-left img,
 figure.img-right img {
-  max-width: 250px;  /* Obergrenze in px */
-  width: 100%;       /* darf kleiner werden */
+  max-width: 75%%;  
 }
 
 /* Container mit Bild und Text nebeneinander */
