@@ -1,7 +1,7 @@
 baseURL = "https://xaverfuchs.github.io/5RhythmsSalzburg/"
-# baseURL = "/Users/xaverfuchs/Documents/Website/5RhythmsSalzburg"
+relativeURLs = false
+canonifyURLs = true
 
-relativeURLs = true
 
 publishDir = "docs"
 
