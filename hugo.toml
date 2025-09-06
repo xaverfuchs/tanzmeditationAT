@@ -1,5 +1,5 @@
-# baseURL = "https://xaverfuchs.github.io/5RhythmsSalzburg/"
-baseURL = "/Users/xaverfuchs/Documents/Website/5RhythmsSalzburg"
+baseURL = "https://xaverfuchs.github.io/5RhythmsSalzburg/"
+# baseURL = "/Users/xaverfuchs/Documents/Website/5RhythmsSalzburg"
 
 relativeURLs = true
 
