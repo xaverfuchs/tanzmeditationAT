@@ -28,3 +28,4 @@ und auf unserer [Facebook-Seite](https://www.facebook.com/fiverhythms) als Veran
 <i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 3)  
 <i class="fa-solid fa-euro-sign"></i> 25 Euro (reduziert: 20 Euro) 
 
+----
