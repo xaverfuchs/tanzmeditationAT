@@ -14,7 +14,7 @@ Dafür haben sie seit Herbst 2025 die Eventreihe zu 5Rhythmen in Salzburg wieder
 
 {{% container class="image-left" %}}
 
-{{< figure src="/images/Xaver.jpg" class="img-left" width="200" >}}
+{{< figure src="/images/Xaver.jpg" class="img-left" width="150" >}}
 
 **Xaver Fuchs** Organisation und Host; sonst Psychologe, Wisseschaftler, Musiker.
 </br> **Links:** [<i class="fas fa-globe"></i>](www.xaverfuchs.de) [<i class="fab fa-facebook"></i>](https://www.facebook.com/xaver.fuchs.98/) [<i class="fa fa-envelope"></i>](mailto:xfuchs@gmx.de)
@@ -24,7 +24,7 @@ Dafür haben sie seit Herbst 2025 die Eventreihe zu 5Rhythmen in Salzburg wieder
 ------
 
 {{% container class="image-right" %}}
-{{< figure src="/images/Lisa.jpg" class="img-right" width="250" >}}
+{{< figure src="/images/Lisa.jpg" class="img-right" width="200" >}}
 
 **Lisa Moser** Veranstalterin, Lehrerin für bewussten Tanz, Coach und Supervision.
 </br> **Links:** [<i class="fas fa-globe"></i>](https://danceworks.at/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/profile.php?id=100088366505568) [<i class="fa fa-envelope"></i>](mailto:lisa@abundance.at)
