@@ -1,5 +1,5 @@
-baseURL = "https://xaverfuchs.github.io/5RhythmsSalzburg/"
-# baseURL = "./"
+# baseURL = "https://xaverfuchs.github.io/5RhythmsSalzburg/"
+baseURL = "/Users/xaverfuchs/Documents/Website/5RhythmsSalzburg"
 
 relativeURLs = true
 
@@ -32,7 +32,6 @@ enableEmoji = true
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and https://gohugo.io/templates/internal#open-graph.
     # NOT the actual header background image, go to _index.md instead
-    images = ["../images/cover-image.jpg"]
     images = ["/images/cover-image.jpg"]
 
     # When set true, it creates a visual guard (partially transparent rounded box), preventing non-ideal background images from interfering with title/description headings
