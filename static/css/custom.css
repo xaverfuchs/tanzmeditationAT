@@ -1,0 +1,53 @@
+/* Bilder generell responsiv machen */
+figure img {
+  max-width: 100%;   /* skaliert mit Container */
+  height: auto;      /* behält Seitenverhältnis */
+}
+
+/* Bilder links und rechts: maximale Größe, aber bei Bedarf kleiner */
+figure.img-left img,
+figure.img-right img {
+  max-width: 250px;  /* Obergrenze in px */
+  width: 100%;       /* darf kleiner werden */
+}
+
+/* Container mit Bild und Text nebeneinander */
+.container {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start; /* oder center */
+}
+
+/* Bild rechts */
+.container figure.img-right {
+  order: 2;          /* nach rechts */
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+/* Bild links */
+.container figure.img-left {
+  order: 0;          /* nach links */
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+/* Text im Container nimmt restliche Breite */
+.container p {
+  margin: 0;
+  flex: 1;
+}
+
+/* Mobile Ansicht: Bild und Text untereinander */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .container figure.img-left,
+  .container figure.img-right {
+    order: 0;           /* normale Reihenfolge */
+    margin: 0 0 1rem 0; /* unten Abstand */
+  }
+}
