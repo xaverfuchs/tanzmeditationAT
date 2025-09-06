@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xaverfuchs.github.io/5RhythmsSalzburg/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xaverfuchs.github.io/5RhythmsSalzburg/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://xaverfuchs.github.io/5RhythmsSalzburg/"
+                href="/"
                 />
   </url><url>
-    <loc>https://xaverfuchs.github.io/5RhythmsSalzburg/license/</loc>
+    <loc>/license/</loc>
   </url><url>
-    <loc>https://xaverfuchs.github.io/5RhythmsSalzburg/legal/</loc>
+    <loc>/legal/</loc>
   </url>
 </urlset>
