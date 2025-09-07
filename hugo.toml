@@ -1,4 +1,8 @@
-baseURL = "https://xaverfuchs.github.io/5RhythmsSalzburg/"
+#baseURL = "https://xaverfuchs.github.io/5RhythmsSalzburg/"
+
+url = "https://5rhythmen-salzburg.at"
+
+baseURL = ""
 relativeURLs = false
 canonifyURLs = true
 
