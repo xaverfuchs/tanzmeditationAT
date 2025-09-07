@@ -6,7 +6,7 @@ weight: 2
 header_menu: true
 ---
 
-Das müsst ihr wissen...
+Das solltet ihr wissen...
 
 -	Ankunft bitte immer pünktlich 15-30 Minuten bevor es los geht
 - 30 Minuten vorher machen wir die Tür schon auf. 15 Minuten vorher spielt schon Musik zum Ankommen
