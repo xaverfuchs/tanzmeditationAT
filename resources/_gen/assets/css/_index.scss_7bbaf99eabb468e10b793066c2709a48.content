@@ -83,7 +83,7 @@ body {
     width: fit-content; }
   #site-head .blog-title, #site-head.withCenteredImage .blog-title {
     margin: 10px 0 10px 0;
-    font-size: 5rem;
+    font-size: 6rem;
     letter-spacing: -1px;
     text-shadow: var(--cover-title-text-shadow); }
   #site-head .blog-description, #site-head.withCenteredImage .blog-description {
@@ -153,6 +153,7 @@ body {
 /* Left sticky menu */
 .fixed-nav {
   background-color: var(--section-light-bg-color);
+  border: 1px solid var(--section-uni-code-bg-color);
   border-radius: 0 25px 20px 0;
   padding: 1em 1.5em;
   display: none;

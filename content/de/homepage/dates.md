@@ -23,7 +23,7 @@ und auf unserer [Facebook-Seite](https://www.facebook.com/fiverhythms) als Veran
 ----
 
 ### Freitags-Wave mit Arthur
-<i class="fa-solid fa-calendar"></i> Freitag, 31. Oktober 2025
+<i class="fa-solid fa-calendar"></i> Freitag, 31. Oktober 2025 </br>
 <i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
 <i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 3)  
 <i class="fa-solid fa-euro-sign"></i> 25 Euro (reduziert: 20 Euro) 

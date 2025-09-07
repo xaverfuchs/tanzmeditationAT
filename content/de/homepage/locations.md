@@ -13,7 +13,7 @@ https://www.stadt-salzburg.at/probehaus
 {{% container class="image-right" %}}
 {{< figure src="/images/Probehaus_maps.jpg" class="img-right" width="350" >}}
 
-Mit Öffis bzw. zu Fuß ist das Probehaus am einfachsten Über die **Aglassingerstraße** (Nähe S-Bahn Salzburg Sam) zu erreichen (siehe Karte). </br>
+Mit Öffis bzw. zu Fuß ist das Probehaus am einfachsten über die **Aglassingerstraße** (Nähe S-Bahn Salzburg Sam) zu erreichen (siehe Karte). </br>
 **Parkplätze** sind nach 18 Uhr und am Wochenende reichlich direkt beim Probehaus vorhanden.
 
 {{% /container %}}

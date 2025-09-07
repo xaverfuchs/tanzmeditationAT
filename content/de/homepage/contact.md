@@ -8,4 +8,4 @@ header_menu: true
 
 {{<contact_list>}}
 
-Bitte folgt uns gerne auf Facebook, likt und teilt die Events und erzählt eure Freund*innen davon 🤗
+Bitte folgt uns gerne auf Facebook, likt und teilt die Events und erzählt euren Freund*innen davon 🤗
