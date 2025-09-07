@@ -17,7 +17,7 @@ Dafür haben sie seit Herbst 2025 die Eventreihe zu 5Rhythmen in Salzburg wieder
 {{< figure src="/images/Xaver.jpg" class="img-left" width="200" >}}
 
 **Xaver Fuchs** Organisation und Host; sonst Psychologe, Wisseschaftler, Musiker.
-</br> **Links:** [<i class="fas fa-globe"></i>](www.xaverfuchs.de) [<i class="fab fa-facebook"></i>](https://www.facebook.com/xaver.fuchs.98/) [<i class="fa fa-envelope"></i>](mailto:xfuchs@gmx.de)
+</br> **Links:** [<i class="fas fa-globe"></i>](https://www.xaverfuchs.de) [<i class="fab fa-facebook"></i>](https://www.facebook.com/xaver.fuchs.98/) [<i class="fa fa-envelope"></i>](mailto:xfuchs@gmx.de)
 
 {{% /container %}}
 

@@ -13,7 +13,7 @@ header_menu: true
 **Felicitas Franz** vermittelt die 5Rhythmen als klare, einfache und zugleich freie Bewegungspraxis. 
 Jede Wave lädt ein, den eigenen Körperausdruck zu genießen und über intuitive Bewegung den/die innere Tänzer*in hervortreten zu lassen.
 Dabei greift sie auf die Essenz der 5Rhythmen zurück: eine Reise durch den Körper, die Herz und Geist öffnet und zur Quelle von Inspiration und innerem Potenzial führt.
-</br> **Links:** [<i class="fas fa-globe"></i>](www.movespace.at) [<i class="fab fa-facebook"></i>](https://www.facebook.com/profile.php?id=100001722769254&) [<i class="fab fa-instagram"></i>](https://www.instagram.com/felicitas.franz/) www.movespace.at
+</br> **Links:** [<i class="fas fa-globe"></i>](https://www.movespace.at) [<i class="fab fa-facebook"></i>](https://www.facebook.com/profile.php?id=100001722769254&) [<i class="fab fa-instagram"></i>](https://www.instagram.com/felicitas.franz/) www.movespace.at
 
 
 {{% /container %}}
