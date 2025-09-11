@@ -6,8 +6,10 @@ weight: 1
 header_menu: true
 ---
 
-Aktuell sind folgende Events geplant. Für weitere Infos siehe unten unter
-[Teilnahme](#teilnahme).
+Aktuell sind die unten gelisteten Waves geplant. 
+Alle Waves werden von ausgebildeten 5Rhythmen-Leherer\*innen unterrichtet.
+Alle Angebote richten sich ausdrücklich auch an Anfänger\*innen! 
+Für weitere Infos siehe unten unter [Teilnahme](#teilnahme). 
 
 Unsere Events sind ebenfalls auf [salzburg-tanzt.at](https://salzburg-tanzt.at/) gelistet 
 und auf unserer [Facebook-Seite](https://www.facebook.com/fiverhythms) als Veranstaltungen angelegt. 
@@ -24,7 +26,7 @@ und auf unserer [Facebook-Seite](https://www.facebook.com/fiverhythms) als Veran
 ### Freitags-Wave mit Arthur
 <i class="fa-solid fa-calendar"></i> Freitag, 31. Oktober 2025 </br>
 <i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 3)  
+<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 2)  
 <i class="fa-solid fa-euro-sign"></i> 25 Euro (reduziert: 20 Euro) 
 
 ----
