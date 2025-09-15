@@ -101,8 +101,8 @@ enableEmoji = true
         
     [[params.contacts]]
         label = "Facebook"
-        value = "https://www.facebook.com/fiverhythms"
-        url = "https://www.facebook.com/fiverhythms"
+        value = "https://www.facebook.com/profile.php?id=61580864462245"
+        url = "https://www.facebook.com/profile.php?id=61580864462245"
         icon = "fab fa-facebook"
         
 

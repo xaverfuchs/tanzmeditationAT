@@ -12,7 +12,7 @@ Alle Angebote richten sich ausdrücklich auch an Anfänger\*innen!
 Für weitere Infos siehe unten unter [Teilnahme](#teilnahme). 
 
 Unsere Events sind ebenfalls auf [salzburg-tanzt.at](https://salzburg-tanzt.at/) gelistet 
-und auf unserer [Facebook-Seite](https://www.facebook.com/fiverhythms) als Veranstaltungen angelegt. 
+und auf unserer [Facebook-Seite](https://www.facebook.com/profile.php?id=61580864462245) als Veranstaltungen angelegt. 
 
 
 ### Sonntags-Wave mit Felicitas
