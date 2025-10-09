@@ -50,3 +50,14 @@ figure.img-right img {
     margin: 0 0 1rem 0; /* unten Abstand */
   }
 }
+
+
+
+/* Titelblock nach oben schieben */
+#site-head .vertical {
+  display: table-cell;
+  vertical-align: top !important; /* statt center */
+  padding-top: -10% !important; /* ggf. Platz oben verringern */
+} 
+
+

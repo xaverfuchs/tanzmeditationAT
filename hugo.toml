@@ -1,6 +1,6 @@
-#baseURL = "https://xaverfuchs.github.io/5RhythmsSalzburg/"
+#baseURL = "https://xaverfuchs.github.io/tanzmeditationAT/"
 
-url = "https://5rhythmen-salzburg.at"
+url = "https://tanzmeditation.at"
 
 baseURL = ""
 relativeURLs = false
@@ -18,7 +18,7 @@ defaultContentLanguage = "de"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "5Rhythmen Salzburg"
+title = "Tanzmeditation Salzburg"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -47,10 +47,10 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "5Rhythmen Salzburg"
+    title = "Tanzmeditation Salzburg"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Salzburg Waves"
+    description = "5Rhythmen und bewusster Tanz in Salzburg"
 
     # Show a menu of languages available
     language_menu = false
@@ -85,7 +85,7 @@ enableEmoji = true
     showFooterLinks = false
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "5Rhythmen, 5Rhythms, Salzburg, Tanz, Dance, Conscious Dance, bewusster Tanz, Meditation"
 
     # [[params.contacts]]
     #    label = "phone"
@@ -95,8 +95,8 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "email"
-        value = "5rhythms.sbg@gmail.com"
-        url = "mailto:5rhythms.sbg@gmail.com"
+        value = "tanzmeditation.sbg@gmail.com"
+        url = "mailto:tanzmeditation.sbg@gmail.com"
         icon = "fa fa-envelope"
         
     [[params.contacts]]
@@ -128,7 +128,7 @@ enableEmoji = true
     contentDir = "content/en"
 
   [languages.de]
-    title = "Salzburg Waves -  5Rhythmen Salzburg"
+    title = "Tanzmeditation"
     weight = 20
     contentDir = "content/de"
     languageName = "Deutsch"

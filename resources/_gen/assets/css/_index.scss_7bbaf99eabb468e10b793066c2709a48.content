@@ -83,7 +83,7 @@ body {
     width: fit-content; }
   #site-head .blog-title, #site-head.withCenteredImage .blog-title {
     margin: 10px 0 10px 0;
-    font-size: 6rem;
+    font-size: 5rem;
     letter-spacing: -1px;
     text-shadow: var(--cover-title-text-shadow); }
   #site-head .blog-description, #site-head.withCenteredImage .blog-description {

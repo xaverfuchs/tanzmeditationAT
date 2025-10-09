@@ -6,11 +6,11 @@ header_image: "images/cover-image.jpg"
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/5r-logo.png"
+header_logo: "images/logo_splash.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Salzburg Waves"
-header_subheadline: "5Rhythmen Salzburg"
+header_headline: "Tanzmeditation Salzburg"
+header_subheadline: "5Rhythmen und bewusster Tanz in Salzburg"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

@@ -1,5 +1,5 @@
 ---
-title: "5Rhythmen Salzburg"
+title: "Tanzmeditation Salzburg"
 header_menu_title: "Über uns"
 navigation_menu_title: "Über uns"
 weight: 6
@@ -7,7 +7,7 @@ header_menu: true
 ---
 
 Xaver und Lisa möchten, dass das Tanzangebot in Salzburg durch regelmäßige 5Rhythmen-Events noch vielseitiger wird und noch mehr Menschen tanzen. 
-Dafür haben sie seit Herbst 2025 die Eventreihe zu 5Rhythmen in Salzburg wiederbelebt, sozusagen als "5Rhythmen Salzburg Reloaded".
+Dafür haben sie seit Herbst 2025 die Eventreihe "Salzburg Waves" zu 5Rhythmen in Salzburg wiederbelebt, sozusagen als "5Rhythmen Salzburg Reloaded".
 
 ![Salzburg Wave](images/salzburg_waves.jpg)
 
