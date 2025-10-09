@@ -61,3 +61,17 @@ figure.img-right img {
 } 
 
 
+/* Titel: bleibt groß */
+.blog-title {
+  font-size: 5rem !important; /* du kannst hier noch anpassen */
+}
+
+/* Subtitel: kleiner und andere Farbe */
+.blog-description {
+  font-size: 2rem;      /* kleiner als Titel */
+  color: #e0ded7 !important;       /* dunkelgrau, z.B. andere Farbe als Titel */
+  font-weight: 400;     /* normale Stärke */
+  margin-top: 0;        /* optional */
+}
+
+

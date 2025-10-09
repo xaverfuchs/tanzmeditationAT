@@ -9,7 +9,7 @@ header_use_video: false
 header_logo: "images/logo_splash.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Tanzmeditation Salzburg"
+header_headline: "Tanzmeditation"
 header_subheadline: "5Rhythmen und bewusster Tanz in Salzburg"
 
 # Add a 'Go back to top' item to the navigation menu
