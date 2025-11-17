@@ -7,7 +7,7 @@ header_menu: true
 ---
 
 Aktuell sind die unten gelisteten Waves geplant. 
-Alle Waves werden von ausgebildeten 5Rhythmen-Leherer\*innen unterrichtet.
+Alle Waves werden von ausgebildeten 5Rhythmen-Lehrer\*innen unterrichtet.
 Alle Angebote richten sich ausdrücklich auch an Anfänger\*innen! 
 Für weitere Infos siehe unten unter [Teilnahme](#teilnahme). 
 
@@ -15,26 +15,10 @@ Unsere Events sind ebenfalls auf [salzburg-tanzt.at](https://salzburg-tanzt.at/)
 und auf unserer [Facebook-Seite](https://www.facebook.com/profile.php?id=61580864462245) als Veranstaltungen angelegt. 
 
 
-### Sonntags-Wave mit Felicitas
-<i class="fa-solid fa-calendar"></i> Sonntag, 19. Oktober 2025  
-<i class="fa-solid fa-clock"></i> 10:30–12:30 (bitte bis 10:15 da sein) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 3)  
-<i class="fa-solid fa-euro-sign"></i> 25 Euro (reduziert: 20 Euro) 
-
-----
-
-### Freitags-Wave mit Arthur
-<i class="fa-solid fa-calendar"></i> Freitag, 31. Oktober 2025 </br>
-<i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 2)  
-<i class="fa-solid fa-euro-sign"></i> 25 Euro (reduziert: 20 Euro) 
-
-----
-
 ### Montags-Wave mit Felicitas
 <i class="fa-solid fa-calendar"></i> Montag, 24. November 2025 </br>
 <i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 3)  
+<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
 <i class="fa-solid fa-euro-sign"></i> 25 Euro (reduziert: 20 Euro) 
 
 ----
@@ -42,7 +26,16 @@ und auf unserer [Facebook-Seite](https://www.facebook.com/profile.php?id=6158086
 ### Freitags-Wave mit Arthur
 <i class="fa-solid fa-calendar"></i> Freitag, 12. Dezember 2025 </br>
 <i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 3)  
+<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 5)  
 <i class="fa-solid fa-euro-sign"></i> 25 Euro (reduziert: 20 Euro) 
 
 ----
+
+### Freitags-Wave mit Felicitas
+<i class="fa-solid fa-calendar"></i> Freitag, 16. Jänner 2026  
+<i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
+<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
+<i class="fa-solid fa-euro-sign"></i> 25 Euro (reduziert: 20 Euro) 
+
+----
+
