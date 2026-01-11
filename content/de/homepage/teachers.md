@@ -31,12 +31,23 @@ Dabei greift sie auf die Essenz der 5Rhythmen zurück: eine Reise durch den Kör
 Seine Waves laden dazu ein, tiefer im eigenen Körper anzukommen und ihn nicht als bloßes Gefährt, 
 sondern liebevoll als Gefährt*in zu begreifen – eine Quelle von Kraft, Erdung und Inspiration, die uns in jeder Lebenssituation zur Seite steht. 
 </br> **Social & Home:**  [<i class="fab fa-facebook"></i>](https://www.facebook.com/arthur.loki07?)
+[Seite auf 5Rhythms Global](https://www.5rhythms.com/teachers/Arthur+Ellert)
 
 {{% /container %}}
 
+------
 
+{{% container class="image-left" %}}
+{{< figure src="/images/Lucia.jpeg" class="img-left" width="300" >}}
 
+**Lucia Eppensteiner** liebt die 5Rhythmen für den Freiraum und die Erlaubnis des ureigenen Ausdrucks auf der einen Seite, für die sanfte Führung, die über uns selbst hinaus inspiriert, auf der anderen Seite. 
+Für Lucia sind die 5Rhythmen lustvolle Spielwiese und Wachstumsraum gleichermaßen. 
+Sie ist überzeugt von der Kraft der Rhythmen, der Vollständigkeit der Welle, die uns durch das Durchtanzen aller 5 Qualitäten, von fließend über klar, wild, leicht und essentiell, meist in einem Gefühl von innerem Frieden hinterlässt. 
+Lucia freut sich sehr, ihre Leidenschaft über das Unterrichten der 5Rhythmen mit anderen teilen zu können. Herzlich willkommen! 
+</br> **Social & Home:** [<i class="fas fa-globe"></i>](https://malu.dance/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/bewegtmitmalu/) [<i class="fab fa-instagram"></i>](https://www.instagram.com/5rhythmen_mit_malu?igsh=MW8wc3ltd2twbzJ6Yw==)  
+[Seite auf 5Rhythms Global](https://www.5rhythms.com/teachers/Lucia+Eppensteiner)
 
+{{% /container %}}
 
 
 
