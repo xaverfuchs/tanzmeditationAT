@@ -42,3 +42,18 @@ und auf unserer [Facebook-Seite](https://www.facebook.com/profile.php?id=6158086
 
 ----
 
+
+### Freitags-Wave mit Lucia Eppensteiner
+{{% container class="image-right" %}}
+{{< figure src="/images/Wave_Lucia.jpg" class="img-right" width="200" >}}
+
+<i class="fa-solid fa-calendar"></i> Freitag, 06. März 2026  
+<i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
+<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
+<i class="fa-solid fa-euro-sign"></i> 25 Euro (reduziert: 20 Euro) </br>
+<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/5q55luT3W)
+
+{{% /container %}}
+
+----
+
