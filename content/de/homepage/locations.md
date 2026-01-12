@@ -11,13 +11,25 @@ header_menu: true
 </br>[Google Maps](https://maps.app.goo.gl/vP9fjeqJo5nzdhQt9)
 </br>https://www.stadt-salzburg.at/probehaus
 
+**Anreise mit Öffis:**
+- Buslinie 22, 23 oder S-Bahn nach Bhf Salzburg Sam
+- Buslinie 4 u. alle Linien von Eugendorf Haltestelle Bachstrasse  
+- Buslinie 10 Haltestelle Gewerbehofstrasse 
+
+**Anreise mit dem Auto:**
+Zufahrt über Gewerbehofstrasse. Folge auf dem Gelände einfach der Beschilderung zum Probehaus Salzburg. 
+**Parkplätze** sind nach 18 Uhr und am Wochenende reichlich direkt beim Probehaus vorhanden.
+
 {{% container class="image-right" %}}
 {{< figure src="/images/Probehaus_maps.jpg" class="img-right" width="350" >}}
 
-Mit Öffis bzw. zu Fuß ist das Probehaus am einfachsten über die **Aglassingerstraße** (Nähe S-Bahn Salzburg Sam) zu erreichen (siehe Karte). </br>
-**Parkplätze** sind nach 18 Uhr und am Wochenende reichlich direkt beim Probehaus vorhanden.
+Mit Öffis bzw. zu Fuß ist das Probehaus am einfachsten über die **Aglassingerstraße** (Nähe S-Bahn Salzburg Sam) zu erreichen. </br>
+Folge auf dem Gelände einfach der **Beschilderung zum Probehaus Salzburg**. 
+
 {{% /container %}}
 
+Beim Gebäude selbst werden wir **Schilder aufhängen "5Rhythmen"**. Die Kassa ist unten beim Haupteingang.
 
-Folge auf dem Gelände einfach der **Beschilderung zum Probehaus Salzburg**. Beim Gebäude selbst werden wir Schilder aufhängen "5Rhythmen". Die Kassa ist unten beim Haupteingang.
+
+
 
