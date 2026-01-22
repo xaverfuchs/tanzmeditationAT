@@ -101,9 +101,15 @@ enableEmoji = true
         
     [[params.contacts]]
         label = "Facebook"
-        value = "https://www.facebook.com/profile.php?id=61580864462245"
+        value = "Facebook"
         url = "https://www.facebook.com/profile.php?id=61580864462245"
         icon = "fab fa-facebook"
+        
+    [[params.contacts]]
+        label = "Instagram"
+        value = "Instagram @tanzmeditation.at"
+        url = "https://www.instagram.com/tanzmeditation.at/"
+        icon = "fab fa-instagram"
         
 
     #[[params.contacts]]

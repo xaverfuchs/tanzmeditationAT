@@ -1,5 +1,5 @@
 ---
-title: "Termine für die nächsten Waves"
+title: "Termine für die nächsten Waves 🌊"
 header_menu_title: "Termine"
 navigation_menu_title: "Termine"
 weight: 1
@@ -11,20 +11,9 @@ Alle Waves werden von ausgebildeten 5Rhythmen-Lehrer\*innen unterrichtet.
 Alle Angebote richten sich ausdrücklich auch an Anfänger\*innen! 
 Für weitere Infos siehe unten unter [Teilnahme](#teilnahme). 
 
-Unsere Events sind ebenfalls auf [salzburg-tanzt.at](https://salzburg-tanzt.at/) gelistet 
-und auf unserer [Facebook-Seite](https://www.facebook.com/profile.php?id=61580864462245) als Veranstaltungen angelegt. 
+Unsere Veranstaltungen findet ihr auch auf unserer [**Facebook-Seite**](https://www.facebook.com/profile.php?id=61580864462245).
+Wir informieren auch über einen **Newsletter**, bei dem ihr euch gern [**hier**](https://3885c164.sibforms.com/serve/MUIFAP9KGw-NYI7TTzzrwT64sMiUk8MgZiFRsvr-kKI3UrmnSNXJrIJMY20hQrG1KDnvQpQm60SoWEyaeNk96sRJ95f6hIU-HOLL-UnAUyxVr10RBaTR3lrLCLgGUK1GNfoOE1YbSU5dDNEmU5osNwkfjNfLI5FqUzK_WdgF5oQWvd0O3VhWgmJX5hkr33lFmlaGnYD5gSrLpjcGvg==) anmelden könnt. 
 
-### Freitags-Wave mit Lucia Eppensteiner
-{{% container class="image-right" %}}
-{{< figure src="/images/Wave_Lucia.jpg" class="img-right" width="200" >}}
-
-<i class="fa-solid fa-calendar"></i> Freitag, 16. Jänner 2026  
-<i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
-<i class="fa-solid fa-euro-sign"></i> 25 Euro (reduziert: 20 Euro) </br>
-<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/7n2brM9Ep)
-
-{{% /container %}}
 
 ----
 
@@ -35,7 +24,7 @@ und auf unserer [Facebook-Seite](https://www.facebook.com/profile.php?id=6158086
 <i class="fa-solid fa-calendar"></i> Freitag, 06. Februar 2026  
 <i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
 <i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 5)  
-<i class="fa-solid fa-euro-sign"></i> 25 Euro (reduziert: 20 Euro) </br>
+<i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/79bgM5wn7)
 
 {{% /container %}}
@@ -50,7 +39,7 @@ und auf unserer [Facebook-Seite](https://www.facebook.com/profile.php?id=6158086
 <i class="fa-solid fa-calendar"></i> Freitag, 20. Februar 2026  
 <i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
 <i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 5)  
-<i class="fa-solid fa-euro-sign"></i> 25 Euro (reduziert: 20 Euro) </br>
+<i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/6HL4ILwL5)
 
 {{% /container %}}
@@ -65,7 +54,7 @@ und auf unserer [Facebook-Seite](https://www.facebook.com/profile.php?id=6158086
 <i class="fa-solid fa-calendar"></i> Freitag, 06. März 2026  
 <i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
 <i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 5)  
-<i class="fa-solid fa-euro-sign"></i> 25 Euro (reduziert: 20 Euro) </br>
+<i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/5q55luT3W)
 
 {{% /container %}}
@@ -80,7 +69,7 @@ und auf unserer [Facebook-Seite](https://www.facebook.com/profile.php?id=6158086
 <i class="fa-solid fa-calendar"></i> Freitag, 17. April 2026  
 <i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
 <i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
-<i class="fa-solid fa-euro-sign"></i> 25 Euro (reduziert: 20 Euro) </br>
+<i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/6zSAPRunS)
 
 {{% /container %}}

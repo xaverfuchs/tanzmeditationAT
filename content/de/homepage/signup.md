@@ -16,5 +16,11 @@ Das solltet ihr wissen...
 -	Wir tanzen barfuß
 -	Im Probehaus gibt es eine Umkleide und Duschen
 
+### Infos zu Preisen 🤑
+- **Regulärpreis: 25€**
+- Reduzierter Preis: 20€, wenn Du im Moment nicht so viel zahlen kannst oder willst
+- U30 Preis: 20€, wenn Du 30 oder jünger bist
+- **Schnupper-Preis: 15€**, wenn Du zum erten Mal zu uns kommst
+- **Bring-a-Friend-Preis: 15€**, wenn Du jemanden mitbringst die/der zum ersten Mal kommt
 
 

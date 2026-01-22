@@ -23,7 +23,7 @@ Sie laden ein, den eigenen Körperausdruck zu erforschen und in Bewegung zu wand
 4.	Lyrical – Nach dem Loslassen entsteht Leichtigkeit, spielerischer Ausdruck und kreative Freude.
 5.	Stillness – Die Bewegung verlangsamt sich und führt in innere Ruhe, Präsenz und Stille.
 
-Man kann wohl kaum poetischer die 5Rhythmen erklären, als die wunderbare kroatische 5Rhythmen-Koryphäe [Silvija Tomčik](https://plesritmova.net/) in dem unten verlinkten Video.
+Man kann wohl kaum schöner und poetischer die 5Rhythmen erklären, als die 5Rhythmen-Koryphäe [Silvija Tomčik](https://plesritmova.net/) in dem unten verlinkten Video.
 {{< youtube 3STUbhg4V_I >}}
 
 Einen guten Eindruck könnt ihr auch in diesem Video mit der Entwicklerin der 5Rhythmen, Gabrielle Roth, bekommen:
