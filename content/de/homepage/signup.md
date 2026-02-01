@@ -18,9 +18,9 @@ Das solltet ihr wissen...
 
 ### Infos zu Preisen
 - **Regulärpreis: 25€**
-- Reduzierter Preis: 20€, wenn Du im Moment nicht so viel zahlen kannst oder willst
-- U30 Preis: 20€, wenn Du 30 oder jünger bist
 - **Schnupper-Preis: 15€**, wenn Du zum erten Mal zu uns kommst
 - **Bring-a-Friend-Preis: 15€**, wenn Du jemanden mitbringst die/der zum ersten Mal kommt
+- Reduzierter Preis: 20€, wenn Du im Moment nicht so viel zahlen kannst oder willst. Oder, wenn Du ein richtiger "die-hard"-Fan der Salzburg Waves bist und sehr regelmäßig zum Tanzen kommst 😉
+- U30 Preis: 20€, wenn Du 30 oder jünger bist
 
 
