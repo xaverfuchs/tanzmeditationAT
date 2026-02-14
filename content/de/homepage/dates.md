@@ -17,19 +17,6 @@ Wir informieren auch über einen **Newsletter**, bei dem ihr euch gern [**hier**
 
 ----
 
-### Freitags-Wave mit Felicitas Franz
-{{% container class="image-right" %}}
-{{< figure src="/images/Wave_Felicitas.jpg" class="img-right" width="200" >}}
-
-<i class="fa-solid fa-calendar"></i> Freitag, 06. Februar 2026  
-<i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 5)  
-<i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
-<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/79bgM5wn7)
-
-{{% /container %}}
-
-----
 
 
 ### Freitags-Wave mit Felicitas Franz
