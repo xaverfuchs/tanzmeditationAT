@@ -37,10 +37,15 @@ Der Workshop lädt Dich ein, tänzerisch in Verbindung mit Deinen weiblichen und
 <i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 5)  
 <i class="fa-solid fa-euro-sign"></i> nur Freitagabend: 28 Euro; gesamter Workshop: 100 Euro; Early-Bird-Preis (Buchung bis 01.April 2026): 90 Euro; Preis für 5Rhythmen-Lehrer*innen: 75 Euro </br>
 
-#### Anmeldung zum Workshop
+#### Anmeldung zum Workshop und Rücktrittsbedingngen
 Die Teilnahme ist nur mit Anmeldung möglich. <br>
  [**Hier gehts zum Anmeldeformular**](https://docs.google.com/forms/d/e/1FAIpQLSfcfzhFz0q44rZNuyRDUB9Sv7L0fS_-os_C2u4NdLVZEO899g/viewform?usp=header)! <br>
 Alternativ könnt ihr uns auch per Mail kontaktieren unter <br> [tanzmeditation.sbg@gmail.com](mailto:tanzmeditation.sbg@gmail.com).
+
+**Rücktrittsbedingungen**
+
+- Bis 14 Tage vorher: 80% Rückerstattung
+- Danach: keine Rückerstattung. Aber Du kannst in Absprache mit uns Deinen Platz an eine andere Person übertragen.
 
 Weitere Infos zum Ablauf bekommt ihr per Mail nach der Anmeldung.
 
