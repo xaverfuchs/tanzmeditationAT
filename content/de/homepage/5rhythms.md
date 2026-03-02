@@ -2,7 +2,7 @@
 title: "Die 5Rhythmen – ein Tanz durch die Welle"
 header_menu_title: "5Rhythmen"
 navigation_menu_title: "5Rhythmen"
-weight: 4
+weight: 5
 header_menu: true
 ---
 

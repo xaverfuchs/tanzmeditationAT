@@ -1,12 +1,12 @@
 ---
 title: "Termine für die nächsten Waves 🌊"
-header_menu_title: "Termine"
-navigation_menu_title: "Termine"
+header_menu_title: "Waves"
+navigation_menu_title: "Waves"
 weight: 1
 header_menu: true
 ---
 
-Aktuell sind die unten gelisteten Waves geplant. 
+Aktuell sind die unten gelisteten Waves (~2 Stunden Tanz-Events) geplant. 
 Alle Waves werden von ausgebildeten 5Rhythmen-Lehrer\*innen unterrichtet.
 Alle Angebote richten sich ausdrücklich auch an Anfänger\*innen! 
 Für weitere Infos siehe unten unter [Teilnahme](#teilnahme). 
@@ -16,23 +16,6 @@ Wir informieren auch über einen **Newsletter**, bei dem ihr euch gern [**hier**
 
 
 ----
-
-
-
-### Freitags-Wave mit Felicitas Franz
-{{% container class="image-right" %}}
-{{< figure src="/images/Wave_Felicitas.jpg" class="img-right" width="200" >}}
-
-<i class="fa-solid fa-calendar"></i> Freitag, 20. Februar 2026  
-<i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 5)  
-<i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
-<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/6HL4ILwL5)
-
-{{% /container %}}
-
-----
-
 
 ### Freitags-Wave mit Lucia Eppensteiner
 {{% container class="image-right" %}}

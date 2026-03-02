@@ -2,7 +2,7 @@
 title: "Tanzmeditation Salzburg"
 header_menu_title: "Über uns"
 navigation_menu_title: "Über uns"
-weight: 6
+weight: 8
 header_menu: true
 ---
 

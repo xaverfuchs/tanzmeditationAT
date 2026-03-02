@@ -2,7 +2,7 @@
 title: "Unsere Lehrer*innen"
 header_menu_title: "Teachers"
 navigation_menu_title: "Teachers"
-weight: 5
+weight: 6
 header_menu: true
 ---
 

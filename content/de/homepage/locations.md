@@ -2,7 +2,7 @@
 title: "Wo wir tanzen"
 header_menu_title: "Locations"
 navigation_menu_title: "Locations"
-weight: 3
+weight: 4
 header_menu: true
 ---
 
