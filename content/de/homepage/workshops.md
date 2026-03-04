@@ -6,7 +6,7 @@ weight: 3
 header_menu: true
 ---
 
- Wie bei den Waves ist auch bei den Workshops keine spezifische Vorerfahrung nötig. Es reicht die
+Wie bei den Waves ist auch bei den Workshops keine spezifische Vorerfahrung nötig. Es reicht die
 Bereitschaft "etwas tiefer einzutauchen".  
 Grundsätzlich besteht ein Workshop aus:
 * einem offenen Abend, der auch gerne für sich genommen besucht werden kann, ohne, dass man am Workshop teilnimmt. Für Workshop-Teilnehmer*innen ist der offene Abend inkludieret.
@@ -34,18 +34,28 @@ Der Workshop lädt Dich ein, tänzerisch in Verbindung mit Deinen weiblichen und
 
 <i class="fa-solid fa-calendar"></i> Freitag, 15. Mai & Samstag 16.Mai 2026  
 <i class="fa-solid fa-clock"></i> Freitag 18:30–21:00 (bitte bis 18:15 da sein); Samstag 10:00 - 17:00 </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 5)  
-<i class="fa-solid fa-euro-sign"></i> nur Freitagabend: 28 Euro; gesamter Workshop: 100 Euro; Early-Bird-Preis (Buchung bis 01.April 2026): 90 Euro; Preis für 5Rhythmen-Lehrer*innen: 75 Euro </br>
+<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 5) </br>
 
-#### Anmeldung zum Workshop und Rücktrittsbedingngen
+#### Preise
+* Teilnahme nur am offenen Freitagabend: 28 Euro
+* Gesamter Workshop: 120 Euro 
+* Early-Bird-Preis (Buchung bis 01.April 2026): 95 Euro
+* Preis für 5Rhythmen-Lehrer*innen: 75 Euro </br>
+
+**Nicht im Preis enthalten**: Verpflegung und Übernachtung
+
+#### Anmeldung zum Workshop und Rücktrittsbedingungen
 Die Teilnahme ist nur mit Anmeldung möglich. <br>
- [**Hier gehts zum Anmeldeformular**](https://docs.google.com/forms/d/e/1FAIpQLSfcfzhFz0q44rZNuyRDUB9Sv7L0fS_-os_C2u4NdLVZEO899g/viewform?usp=header)! <br>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfcfzhFz0q44rZNuyRDUB9Sv7L0fS_-os_C2u4NdLVZEO899g/viewform?usp=header" class="blink">Hier gehts zum Anmeldeformular</a> <br>
+
 Alternativ könnt ihr uns auch per Mail kontaktieren unter <br> [tanzmeditation.sbg@gmail.com](mailto:tanzmeditation.sbg@gmail.com).
 
-**Rücktrittsbedingungen**
+Bei Abmeldung bis 14 Tage vorher werden 80% des Preises rückerstattet. Bei weniger als 14 Tagen, ist keine Rückerstattung möglich, aber Du kannst in Absprache mit uns Deinen Platz an eine andere Person übertragen. Wegen des organisatorischen Aufwands werden wir 25 Euro bei der Übertragung einbehalten. 
 
-- Bis 14 Tage vorher: 80% Rückerstattung
-- Danach: keine Rückerstattung. Aber Du kannst in Absprache mit uns Deinen Platz an eine andere Person übertragen.
+#### Weitere Infos
+* Sprache: der Worshop findet auf deutsch statt, eine Übersetzung ins Englische ist aber möglich.
+* Verpflegung: wir stellen Snacks und Getränke wie Tees bereit. Am besten bringt Ihr Euch eine Jause für mittags mit. Es gibt eine Küche, wo man auch etwas warm machen kann. 
+Unweit des Probehauses gibt ebenfalls einen Spar-Supermarkt, wo man etwas einkaufen könnte in der Mittagspause. 
 
 Weitere Infos zum Ablauf bekommt ihr per Mail nach der Anmeldung.
 
