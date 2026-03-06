@@ -35,6 +35,7 @@ Der Workshop lädt Dich ein, tänzerisch in Verbindung mit Deinen weiblichen und
 <i class="fa-solid fa-calendar"></i> Freitag, 15. Mai & Samstag 16.Mai 2026  
 <i class="fa-solid fa-clock"></i> Freitag 18:30–21:00 (bitte bis 18:15 da sein); Samstag 10:00 - 17:00 </br>
 <i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 5) </br>
+<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/3yeHmsyuG)
 
 #### Preise
 * Teilnahme nur am offenen Freitagabend: 28 Euro
