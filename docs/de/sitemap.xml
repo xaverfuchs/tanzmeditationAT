@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xaverfuchs.github.io/tanzmeditationAT/</loc>
+    <loc>https://tanzmeditation.at/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xaverfuchs.github.io/tanzmeditationAT/en/"
+                href="https://tanzmeditation.at/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://xaverfuchs.github.io/tanzmeditationAT/"
+                href="https://tanzmeditation.at/"
                 />
   </url><url>
-    <loc>https://xaverfuchs.github.io/tanzmeditationAT/license/</loc>
+    <loc>https://tanzmeditation.at/license/</loc>
   </url><url>
-    <loc>https://xaverfuchs.github.io/tanzmeditationAT/legal/</loc>
+    <loc>https://tanzmeditation.at/legal/</loc>
   </url>
 </urlset>

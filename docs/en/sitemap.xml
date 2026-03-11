@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xaverfuchs.github.io/tanzmeditationAT/en/</loc>
+    <loc>https://tanzmeditation.at/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://xaverfuchs.github.io/tanzmeditationAT/"
+                href="https://tanzmeditation.at/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xaverfuchs.github.io/tanzmeditationAT/en/"
+                href="https://tanzmeditation.at/en/"
                 />
   </url>
 </urlset>
