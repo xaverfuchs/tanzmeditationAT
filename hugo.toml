@@ -1,12 +1,11 @@
 #baseURL = "https://xaverfuchs.github.io/tanzmeditationAT/"
 
-#baseURL = "https://tanzmeditation.at/"
-baseURL = "https://xaverfuchs.github.io/tanzmeditationAT/"
+baseURL = "https://tanzmeditation.at/"
 relativeURLs = false
-canonifyURLs = true
-
-
+canonifyURLs = false
 publishDir = "docs"
+
+url="https://tanzmeditation.at/"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
