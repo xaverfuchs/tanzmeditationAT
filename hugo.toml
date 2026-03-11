@@ -1,6 +1,7 @@
 #baseURL = "https://xaverfuchs.github.io/tanzmeditationAT/"
 
-baseURL = "https://tanzmeditation.at/"
+#baseURL = "https://tanzmeditation.at/"
+baseURL = "https://xaverfuchs.github.io/tanzmeditationAT/"
 relativeURLs = false
 canonifyURLs = true
 
