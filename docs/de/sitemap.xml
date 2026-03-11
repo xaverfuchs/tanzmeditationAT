@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://tanzmeditation.at/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://tanzmeditation.at/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/"
+                href="https://tanzmeditation.at/"
                 />
   </url><url>
-    <loc>/license/</loc>
+    <loc>https://tanzmeditation.at/license/</loc>
   </url><url>
-    <loc>/legal/</loc>
+    <loc>https://tanzmeditation.at/legal/</loc>
   </url>
 </urlset>
