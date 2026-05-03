@@ -17,34 +17,20 @@ Wir informieren auch über einen **Newsletter**, bei dem ihr euch gern [**hier**
 
 ----
 
-### Freitags-Wave mit Lucia Eppensteiner
+### Offener Abend (Wave) zum Workshop "Sanft & Salzig" mit Felicitas Franz
 {{% container class="image-right" %}}
-{{< figure src="/images/Wave_Lucia.jpg" class="img-right" width="200" >}}
+{{< figure src="/images/Salzburg_tanzt_SuS.jpeg" class="img-right" width="200" >}}
 
-<i class="fa-solid fa-calendar"></i> Freitag, 06. März 2026  
-<i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 5)  
-<i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
-<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/5q55luT3W)
+<i class="fa-solid fa-calendar"></i> Freitag, 15. Mai 2026  
+<i class="fa-solid fa-clock"></i> 18:30–21:00 (bitte bis 18:15 da sein) </br>
+<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
+<i class="fa-solid fa-euro-sign"></i> 28 Euro regulär, reduziert 23/18; siehe [Preise](#teilnahme) </br>
+<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/9zl5ospfb)
 
 {{% /container %}}
 
-----
 
-### Freitags-Wave mit Manuel Eppensteiner
-{{% container class="image-right" %}}
-{{< figure src="/images/Wave_Manuel.jpg" class="img-right" width="200" >}}
-
-<i class="fa-solid fa-calendar"></i> Freitag, 20. März 2026  
-<i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 4)  
-<i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
-<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/5NKZ66FXw)
-
-{{% /container %}}
-
-----
-
+<!--
 
 ### Freitags-Wave mit Felicitas Franz
 {{% container class="image-right" %}}
@@ -57,5 +43,7 @@ Wir informieren auch über einen **Newsletter**, bei dem ihr euch gern [**hier**
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/6zSAPRunS)
 
 {{% /container %}}
+
+-->
 
 ----
