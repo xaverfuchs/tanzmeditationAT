@@ -17,6 +17,20 @@ Wir informieren auch über einen **Newsletter**, bei dem ihr euch gern [**hier**
 
 ----
 
+### Offener Abend (Wave) zum Workshop "Sanft & Salzig" mit Felicitas Franz
+{{% container class="image-right" %}}
+{{< figure src="/images/Salzburg_tanzt_SuS.jpeg" class="img-right" width="200" >}}
+
+<i class="fa-solid fa-calendar"></i> Freitag, 15. Mai 2026  
+<i class="fa-solid fa-clock"></i> 18:30–21:00 (bitte bis 18:15 da sein) </br>
+<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
+<i class="fa-solid fa-euro-sign"></i> 28 Euro regulär, reduziert 23/18; siehe [Preise](#teilnahme) </br>
+<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/9zl5ospfb)
+
+{{% /container %}}
+
+
+<!--
 
 ### Freitags-Wave mit Felicitas Franz
 {{% container class="image-right" %}}
@@ -29,5 +43,7 @@ Wir informieren auch über einen **Newsletter**, bei dem ihr euch gern [**hier**
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/6zSAPRunS)
 
 {{% /container %}}
+
+-->
 
 ----

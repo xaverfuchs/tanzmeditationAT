@@ -25,8 +25,8 @@ Für die Teilnahme am Workshop ist aber eine Anmeldung nötig. Die Infos dafür 
 **Weiblich und männlich in Balance--eine tänzerische Erkundungsreise**
 
 Weiblich und männlich sind Energien, die wir alle in uns tragen—und brauchen.
-Diese Energien sind in unterschiedlichem Grade vorhanden, egal, welche Geschlechtsidentifikation Du hast.  
-Oft sind diese aber überlagert von Vorstellungen, Selbstansprüchen und (teilweise von außen definierten) Bildern: Was bedeutet "weiblich" und "männlich" überhaupt und wie "muss" ich mich verhalten?
+Diese Energien sind vorhanden, egal, welche Geschlechtsidentifikation Du hast.  
+Oft sind diese aber überlagert von Vorstellungen, Selbstansprüchen und (teilweise von außen definierten) Bildern: Was bedeutet "weiblich" und "männlich" überhaupt? Wie "muss" ich mich verhalten? Oder: wie "darf" ich mich nicht verhalten?
 Manchmal ist deshalb der Zugang zur Energie und zum Ausdruck erschwert.
 
 Freier Tanz und Verkörperungsarbeit kann helfen, Muster zu erkennen, sich von Selbstansprüchen zu befreien und Raum zu schaffen für eine weite, vielschichtige innere Landschaft aus Energien. <br>
