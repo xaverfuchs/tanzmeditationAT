@@ -29,6 +29,19 @@ Wir informieren auch über einen **Newsletter**, bei dem ihr euch gern [**hier**
 
 {{% /container %}}
 
+----
+
+### Offener Abend (Wave) zum Workshop "BeziehungsWEISE" mit Manuel und Lucia Eppensteiner
+{{% container class="image-right" %}}
+{{< figure src="/images/Salzburg_tanzt_beziehungsweise.jpg" class="img-right" width="200" >}}
+
+<i class="fa-solid fa-calendar"></i> Freitag, 19. Juni 2026  
+<i class="fa-solid fa-clock"></i> 18:30–21:00 (bitte bis 18:15 da sein) </br>
+<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
+<i class="fa-solid fa-euro-sign"></i> 28 Euro regulär, reduziert 23/18; siehe [Preise](#teilnahme) </br>
+<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/76yWZjfAlb)
+
+{{% /container %}}
 
 <!--
 
@@ -46,4 +59,4 @@ Wir informieren auch über einen **Newsletter**, bei dem ihr euch gern [**hier**
 
 -->
 
-----
+
