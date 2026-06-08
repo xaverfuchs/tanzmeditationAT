@@ -17,4 +17,12 @@ Bitte folgt uns gerne auf Facebook & Instagram, likt und teilt die Events und er
 
 {{<contact_list>}}
 
+### WhatsApp-Kanal
+In dem WhatsApp-Kanal informieren wir über Events. Der Kanal ist sehr ratsam besonders, wenn man an den Outdoor-Angeboten teilnimmt.
+
+Klicke [**hier**](https://whatsapp.com/channel/0029VbD7Voo6mYPFOHXnTc2t), wenn Du am Handy die Seite siehts, um beizutreten. 
+Ansonsten kannst Du den QR-Code mit dem Handy scannen.
+
+![WhatsApp](images/QR_WhatsApp.png)
+
 
