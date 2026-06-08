@@ -38,13 +38,16 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 
 <i class="fa-solid fa-calendar"></i> Freitag, 3. Juli 2026  
 <i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
+<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 2)  
 <i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/6zSAPRunS)
 
 {{% /container %}}
 
 ---
+
+<!--
+
 
 ### Outdoor-Wave im Park am Samstag-Vormittag mit Arthur Ellert
 {{% container class="image-right" %}}
@@ -62,6 +65,7 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 
 ---
 
+-->
 
 ### Freitags-Wave mit Arthur Ellert
 {{% container class="image-right" %}}
@@ -77,6 +81,7 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 
 ---
 
+<!--
 ### Outdoor-Wave im Park am Samstag-Vormittag mit Arthur Ellert
 {{% container class="image-right" %}}
 {{< figure src="/images/SummerWaves.jpg" class="img-right" width="250" >}}
@@ -93,6 +98,7 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 
 ---
 
+-->
 
 ### Samstags-Wave mit Felicitas Franz
 {{% container class="image-right" %}}
