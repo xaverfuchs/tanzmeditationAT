@@ -18,55 +18,6 @@ Für die Teilnahme am Workshop ist aber eine Anmeldung nötig. Die Infos dafür 
 
 ----
 
-### Sanft & Salzig
-**5Rhythmen-Workshop mit Felicitas Franz am 15 & 16.Mai 2026**
-![image](/images/ws_sanftsalzig.png)
-
-**Weiblich und männlich in Balance--eine tänzerische Erkundungsreise**
-
-Weiblich und männlich sind Energien, die wir alle in uns tragen—und brauchen.
-Diese Energien sind vorhanden, egal, welche Geschlechtsidentifikation Du hast.  
-Oft sind diese aber überlagert von Vorstellungen, Selbstansprüchen und (teilweise von außen definierten) Bildern: Was bedeutet "weiblich" und "männlich" überhaupt? Wie "muss" ich mich verhalten? Oder: wie "darf" ich mich nicht verhalten?
-Manchmal ist deshalb der Zugang zur Energie und zum Ausdruck erschwert.
-
-Freier Tanz und Verkörperungsarbeit kann helfen, Muster zu erkennen, sich von Selbstansprüchen zu befreien und Raum zu schaffen für eine weite, vielschichtige innere Landschaft aus Energien. <br>
-Der Workshop lädt Dich ein, tänzerisch in Verbindung mit Deinen weiblichen und männlichen Anteilen zu gehen und diese neu zu verkörpern--nicht als Rolle, sondern als lebendige Balance in Dir. 
-
-<i class="fa-solid fa-calendar"></i> Freitag, 15. Mai & Samstag 16.Mai 2026  
-<i class="fa-solid fa-clock"></i> Freitag 18:30–21:00 (bitte bis 18:15 da sein); Samstag 10:00 - 17:00 </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 5) </br>
-<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/76yWZjfAl)
-
-#### Preise
-* Teilnahme nur am offenen Freitagabend: 28 Euro
-* Gesamter Workshop: 120 Euro 
-* Early-Bird-Preis (Buchung bis 01.April 2026): 95 Euro
-* Preis für 5Rhythmen-Lehrer*innen: 75 Euro </br>
-* Für den offenen Abend gelten ähnliche Vergünstigungen wie bei den Waves: Du tanzt 10 Euro günstiger, wenn Du zum ersten Mal kommst oder wen Neues mitbringst. Und 5 Euro günstiger, wenn Du U30 bist oder augenblicklich ein bisschen sparen musst.
-
-**Nicht im Preis enthalten**: Verpflegung und Übernachtung
-
-#### Anmeldung zum Workshop und Rücktrittsbedingungen
-Die Teilnahme am Workshop ist nur mit Anmeldung möglich. <br>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfcfzhFz0q44rZNuyRDUB9Sv7L0fS_-os_C2u4NdLVZEO899g/viewform?usp=header" class="blink">Hier gehts zum Anmeldeformular</a> <br>
-
-Die Teilnahme am offenen Abend ist aber ohne Anmeldung möglich, egal, ob Du beim Workshop mitmachst oder nicht.
-
-Alternativ könnt ihr uns auch per Mail kontaktieren unter <br> [tanzmeditation.sbg@gmail.com](mailto:tanzmeditation.sbg@gmail.com).
-
-Bei Abmeldung bis 14 Tage vorher werden 80% des Preises rückerstattet. Bei weniger als 14 Tagen, ist keine Rückerstattung möglich, aber Du kannst in Absprache mit uns Deinen Platz an eine andere Person übertragen. Wegen des organisatorischen Aufwands werden wir 25 Euro bei der Übertragung einbehalten. 
-
-#### Weitere Infos
-* Sprache: der Workshop findet auf deutsch statt, eine Übersetzung ins Englische ist aber möglich.
-* Verpflegung: wir stellen Snacks und Getränke wie Tees bereit. Am besten bringt Ihr Euch eine Jause für mittags mit. Es gibt eine Küche, wo man auch etwas warm machen kann. 
-Unweit des Probehauses gibt ebenfalls einen Spar-Supermarkt, wo ihr in der Mittagspause etwas einkaufen könnt. 
-
-Weitere Infos zum Ablauf bekommt ihr per Mail nach der Anmeldung.
-
-Fragen? [Kontaktiert uns einfach](#kontakt).
-
-----
-
 ### BeziehungsWEISE
 **5Rhythmen-Workshop mit Manuel und Lucia Eppensteiner am 19 & 20.Juni 2026**
 ![image](/images/ws_beziehungsweise.jpeg)
