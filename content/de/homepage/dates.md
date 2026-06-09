@@ -46,9 +46,6 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 
 ---
 
-<!--
-
-
 ### Outdoor-Wave im Park am Samstag-Vormittag mit Arthur Ellert
 {{% container class="image-right" %}}
 {{< figure src="/images/SummerWaves.jpg" class="img-right" width="250" >}}
@@ -65,7 +62,6 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 
 ---
 
--->
 
 ### Freitags-Wave mit Arthur Ellert
 {{% container class="image-right" %}}
@@ -81,7 +77,6 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 
 ---
 
-<!--
 ### Outdoor-Wave im Park am Samstag-Vormittag mit Arthur Ellert
 {{% container class="image-right" %}}
 {{< figure src="/images/SummerWaves.jpg" class="img-right" width="250" >}}
@@ -98,7 +93,6 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 
 ---
 
--->
 
 ### Samstags-Wave mit Felicitas Franz
 {{% container class="image-right" %}}
