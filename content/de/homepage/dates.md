@@ -115,9 +115,9 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 <i class="fa-solid fa-calendar"></i> Sonntag, 2. August 2026  
 <i class="fa-solid fa-clock"></i> 10:00 - 16:00 (bitte pünktlich da sein) </br>
 <i class="fa-solid fa-location-dot"></i> Treffpunkt in [Hallein am Bayrhamerplatz](https://maps.app.goo.gl/ptJGeks9K2v5RKSw8) </br>
-<i class="fa-solid fa-euro-sign"></i> 40 Euro </br>
+<i class="fa-solid fa-euro-sign"></i> 50 Euro bei Anmeldung bis 10 Tage vorher; danach 60 Euro </br>
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/6zSAPRunS) </br>
-<i class="fa fa-info-circle"></i> Der Ausflug besteht aus einer leichten bis mittelschweren Wanderung in meditativer Stille mit Impulsen und 5Rhythmen-Tanz an besonderen Orten am Weg (mit Kopfhörern). 
+<i class="fa fa-info-circle"></i> Der Ausflug besteht aus einer leichten bis mittelschweren Wanderung in meditativer Stille mit Impulsen und 5Rhythmen-Tanz an besonderen Orten am Weg (mit Kopfhörern). Um diesen kontemplativen, naturverbundenen Rahmen zu stützen, findet die Wanderung mit einer eher kleineren Gruppe statt (weniger als 10 Leute).
 Wir gehen von Hallein nach St. Leonhard (Grödig) über die Barmsteine. Siehe die Tour [hier](https://www.komoot.com/de-de/tour/3011233266?share_token=aEb8gKPwf0ql3BcU4ZAenpxZq4AFJFl746dVM2U45aVK5JbY21&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=656352091033). Für das Event ist eine Anmeldung unbedingt nötig, weil es nur wenige Plätze gibt. Dazu bitte eine Mail schreiben (siehe unten bei [**Kontakt**](#kontakt)). 
 Alle Detailinfos kommen dann per Mail! </br>
 
@@ -148,9 +148,9 @@ Alle Detailinfos kommen dann per Mail! </br>
 <i class="fa-solid fa-calendar"></i> Sonntag, 16. August 2026  
 <i class="fa-solid fa-clock"></i> 10:00 - 16:00 (bitte pünktlich da sein) </br>
 <i class="fa-solid fa-location-dot"></i> Treffpunkt in [Hallein am Bayrhamerplatz](https://maps.app.goo.gl/ptJGeks9K2v5RKSw8) </br>
-<i class="fa-solid fa-euro-sign"></i> 40 Euro </br>
+<i class="fa-solid fa-euro-sign"></i> 50 Euro bei Anmeldung bis 10 Tage vorher; danach 60 Euro </br>
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/6zSAPRunS) </br>
-<i class="fa fa-info-circle"></i> Der Ausflug besteht aus einer leichten bis mittelschweren Wanderung in meditativer Stille mit Impulsen und 5Rhythmen-Tanz an besonderen Orten am Weg (mit Kopfhörern). 
+<i class="fa fa-info-circle"></i> Der Ausflug besteht aus einer leichten bis mittelschweren Wanderung in meditativer Stille mit Impulsen und 5Rhythmen-Tanz an besonderen Orten am Weg (mit Kopfhörern). Um diesen kontemplativen, naturverbundenen Rahmen zu stützen, findet die Wanderung mit einer eher kleineren Gruppe statt (weniger als 10 Leute).
 Wir gehen von Hallein nach St. Leonhard (Grödig) über die Barmsteine. Siehe die Tour [hier](https://www.komoot.com/de-de/tour/3011233266?share_token=aEb8gKPwf0ql3BcU4ZAenpxZq4AFJFl746dVM2U45aVK5JbY21&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=656352091033). Für das Event ist eine Anmeldung unbedingt nötig, weil es nur wenige Plätze gibt. Dazu bitte eine Mail schreiben (siehe unten bei [**Kontakt**](#kontakt)). 
 Alle Detailinfos kommen dann per Mail! </br>
 
