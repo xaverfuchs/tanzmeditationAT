@@ -22,39 +22,6 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 {{% container class="image-right" %}}
 {{< figure src="/images/Wave_Felicitas.jpg" class="img-right" width="250" >}}
 
-<i class="fa-solid fa-calendar"></i> Samstag, 1. August 2026  
-<i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
-<i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
-<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/4wtmr0lUg)
-
-{{% /container %}}
-
----
-
-### Hike & Dance "Barmsteine" mit Felicitas Franz
-{{% container class="image-right" %}}
-{{< figure src="/images/Hike&Dance.jpg" class="img-right" width="250" >}}
-
-<i class="fa-solid fa-calendar"></i> Sonntag, 2. August 2026  
-<i class="fa-solid fa-clock"></i> 10:00 - 15:30 (bitte pünktlich da sein) </br>
-<i class="fa-solid fa-location-dot"></i> Treffpunkt in [Hallein am Bayrhamerplatz](https://maps.app.goo.gl/ptJGeks9K2v5RKSw8) </br>
-<i class="fa-solid fa-euro-sign"></i> 50 Euro bei Anmeldung bis 10 Tage vorher; danach 60 Euro </br>
-<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/4KV6Rx7jM) </br>
-<i class="fa fa-info-circle"></i> 
-Wanderung in meditativer Stille. Wir tanzen 5Rhythmen-Waves an besonderen Orten entlang der Strecke – mit Kopfhörern.
-Tour von [Hallein nach St. Leonhard (Grödig) über die Barmsteine](https://www.komoot.com/de-de/tour/3011233266?share_token=aEb8gKPwf0ql3BcU4ZAenpxZq4AFJFl746dVM2U45aVK5JbY21&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=656352091033). Beim Wandern werden wir geführt von Carmen Tschuschnigg, eine erfahrene Wanderfürerin (und Tänzerin).
-Die Gruppe bleibt klein (<12 Personen), damit Raum für Ruhe und Achtsamkeit bleibt. Begrenzte Plätze, deshalb **bitten wir um Anmeldung** per Mail an tanzmeditation.sbg@gmail.com (siehe [**Kontakt**](#kontakt)). </br>
-
-{{% /container %}}
-
----
-
-
-### Samstags-Wave mit Felicitas Franz
-{{% container class="image-right" %}}
-{{< figure src="/images/Wave_Felicitas.jpg" class="img-right" width="250" >}}
-
 <i class="fa-solid fa-calendar"></i> Samstag, 15. August 2026  
 <i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
 <i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
@@ -65,13 +32,13 @@ Die Gruppe bleibt klein (<12 Personen), damit Raum für Ruhe und Achtsamkeit ble
 
 ---
 
-## Hike & Dance "Wolfgangsee" mit Felicitas Franz
+### Hike & Dance "Wolfgangsee" mit Felicitas Franz
 {{% container class="image-right" %}}
 {{< figure src="/images/Hike&Dance.jpg" class="img-right" width="250" >}}
 
 <i class="fa-solid fa-calendar"></i> Sonntag, 16. August 2026  
 <i class="fa-solid fa-clock"></i> 10:00 - 15:30 (bitte pünktlich da sein) </br>
-<i class="fa-solid fa-location-dot"></i> Treffpunkt in [St. Gilgen bei der Badewiese](https://maps.app.goo.gl/KFYLx7jESjytAQB86)  </br>
+<i class="fa-solid fa-location-dot"></i> Treffpunkt [auf einem Parkplatz in der Nähe von Strobl](https://maps.app.goo.gl/xkAFS4vcwZCzTth46). Der Parkplatz ist gut mit den Öffis erreichbar: von der Haltestelle Strobl Breitenbacher (Linie 150) ist es 10-15 Minuten zu Fuß </br>
 <i class="fa-solid fa-euro-sign"></i> 50 Euro bei Anmeldung bis 10 Tage vorher; danach 60 Euro </br>
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/49p95VzyH) </br>
 <i class="fa fa-info-circle"></i> Wanderung in meditativer Stille. Wir tanzen 5Rhythmen-Waves an besonderen Orten entlang der Strecke – mit Kopfhörern.
