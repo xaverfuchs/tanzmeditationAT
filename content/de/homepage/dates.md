@@ -32,24 +32,6 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 
 ---
 
-### Hike & Dance "Wolfgangsee" mit Felicitas Franz
-{{% container class="image-right" %}}
-{{< figure src="/images/Hike&Dance.jpg" class="img-right" width="250" >}}
-
-<i class="fa-solid fa-calendar"></i> Sonntag, 16. August 2026  
-<i class="fa-solid fa-clock"></i> 10:00 - 15:30 (bitte pünktlich da sein) </br>
-<i class="fa-solid fa-location-dot"></i> Treffpunkt [auf einem Parkplatz in der Nähe von Strobl](https://maps.app.goo.gl/xkAFS4vcwZCzTth46). Der Parkplatz ist gut mit den Öffis erreichbar: von der Haltestelle Strobl Breitenbacher (Linie 150) ist es 10-15 Minuten zu Fuß </br>
-<i class="fa-solid fa-euro-sign"></i> 50 Euro bei Anmeldung bis 10 Tage vorher; danach 60 Euro </br>
-<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/49p95VzyH) </br>
-<i class="fa fa-info-circle"></i> Wanderung in meditativer Stille. Wir tanzen 5Rhythmen-Waves an besonderen Orten entlang der Strecke – mit Kopfhörern.
-Die Tour wird ungefähr 10 Km Strecke sein. Details zur Tour werden in Kürze bekannt gegeben. Beim Wandern werden wir geführt von Carmen Tschuschnigg, eine erfahrene Wanderfürerin (und Tänzerin).
-Die Gruppe bleibt klein (<12 Personen), damit Raum für Ruhe und Achtsamkeit bleibt. Begrenzte Plätze, deshalb **bitten wir um Anmeldung** per Mail an tanzmeditation.sbg@gmail.com (siehe [**Kontakt**](#kontakt)). </br>
-
-
-{{% /container %}}
-
----
-
 
 ### Freitags-Emerging-Wave mit Sylvia Höfer
 {{% container class="image-right" %}}
@@ -59,7 +41,7 @@ Die Gruppe bleibt klein (<12 Personen), damit Raum für Ruhe und Achtsamkeit ble
 <i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
 <i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
 <i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
-<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/6zSAPRunS) </br>
+<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/bJgF3RB8k) </br>
 <i class="fa fa-info-circle"></i> "Emerging Waves" sind 5Rhythmen-Waves, die von Lehrerinnen in Ausbildung leicht angeleitet werden. Hier finden vergleichsweise wenige Übungen statt. Ihr könnt euch ganz aufs Tanzen konzentrieren 😊. </br>
 [Hier](https://www.5rhythms.com/teachers/Sylvia+Hoefer) erfahrt ihr mehr über die wunderbare Sylvia Höfer </br>
 
@@ -72,10 +54,10 @@ Die Gruppe bleibt klein (<12 Personen), damit Raum für Ruhe und Achtsamkeit ble
 {{< figure src="/images/Wave_Lisa.jpg" class="img-right" width="250" >}}
 
 <i class="fa-solid fa-calendar"></i> Montag, 21. September 2026  
-<i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
+<i class="fa-solid fa-clock"></i> 20:00–22:00 (ACHTUNG, andere Uhrzeit als sonst!) </br>
 <i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
 <i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
-<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/6zSAPRunS) </br>
+<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/7j6qRkux3) </br>
 <i class="fa fa-info-circle"></i> "Emerging Waves" sind 5Rhythmen-Waves, die von Lehrerinnen in Ausbildung leicht angeleitet werden. Hier finden vergleichsweise wenige Übungen statt. Ihr könnt euch ganz aufs Tanzen konzentrieren 😊. </br>
 [Hier](https://www.tinyurl.com/Lisa5R) erfahrt ihr mehr über die wunderbare Lisa Horvath </br>
 
