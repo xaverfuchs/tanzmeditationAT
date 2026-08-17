@@ -17,22 +17,6 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 
 ----
 
-
-### Samstags-Wave mit Felicitas Franz
-{{% container class="image-right" %}}
-{{< figure src="/images/Wave_Felicitas.jpg" class="img-right" width="250" >}}
-
-<i class="fa-solid fa-calendar"></i> Samstag, 15. August 2026  
-<i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
-<i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
-<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/3ZMuDTFzt)
-
-{{% /container %}}
-
----
-
-
 ### Freitags-Emerging-Wave mit Sylvia Höfer
 {{% container class="image-right" %}}
 {{< figure src="/images/Wave_Sylvia.jpg" class="img-right" width="250" >}}
