@@ -27,13 +27,13 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 <i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/bJgF3RB8k) </br>
 <i class="fa fa-info-circle"></i> "Emerging Waves" sind 5Rhythmen-Waves, die von Lehrerinnen in Ausbildung leicht angeleitet werden. Hier finden vergleichsweise wenige Übungen statt. Ihr könnt euch ganz aufs Tanzen konzentrieren 😊. </br>
-[Hier](https://www.5rhythms.com/teachers/Sylvia+Hoefer) erfahrt ihr mehr über die wunderbare Sylvia Höfer </br>
+[Hier](https://www.5rhythms.com/teachers/Sylvia+Hoefer) erfahrt ihr mehr über Sylvia Höfer </br>
 
 {{% /container %}}
 
 ---
 
-### Montags-Emerging-Wave mit Lisa Horvath
+### Freies Tanzen am Montag mit Lisa Horvath
 {{% container class="image-right" %}}
 {{< figure src="/images/Wave_Lisa.jpg" class="img-right" width="250" >}}
 
@@ -42,9 +42,8 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 <i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
 <i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/7j6qRkux3) </br>
-<i class="fa fa-info-circle"></i> "Emerging Waves" sind 5Rhythmen-Waves, die von Lehrerinnen in Ausbildung leicht angeleitet werden. Hier finden vergleichsweise wenige Übungen statt. Ihr könnt euch ganz aufs Tanzen konzentrieren 😊. </br>
-[Hier](https://www.tinyurl.com/Lisa5R) erfahrt ihr mehr über die wunderbare Lisa Horvath </br>
-
+<i class="fa fa-info-circle"></i> Freies Tanzen mit Lisa Horvath lädt dich ein, aus dem Kopf in den Körper zu kommen und deiner eigenen Bewegung einfach zu folgen. Zwischen leichten und langsamen, kraftvollen und dynamischen Phasen entsteht Raum für Präsenz, Authentizität und Lebendigkeit. </br>
+Lisa Horvath ist in der Ausbildung zur 5Rhythmen-Lehrerin. [Hier](https://www.tinyurl.com/Lisa5R) erfahrt ihr mehr über Lisa </br>
 {{% /container %}}
 
 ---
