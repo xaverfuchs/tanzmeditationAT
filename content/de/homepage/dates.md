@@ -35,7 +35,7 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 
 ### Freies Tanzen am Montag mit Lisa Horvath
 {{% container class="image-right" %}}
-{{< figure src="/images/Wave_Lisa.jpg" class="img-right" width="250" >}}
+{{< figure src="/images/Wave_Lisa2.jpg" class="img-right" width="250" >}}
 
 <i class="fa-solid fa-calendar"></i> Montag, 21. September 2026  
 <i class="fa-solid fa-clock"></i> 20:00–22:00 (ACHTUNG, andere Uhrzeit als sonst!) </br>
