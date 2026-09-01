@@ -39,7 +39,7 @@ Wir informieren auch über einen **Newsletter** und die **WahtsApp-Gruppe**. Ihr
 
 <i class="fa-solid fa-calendar"></i> Montag, 21. September 2026  
 <i class="fa-solid fa-clock"></i> 20:00–22:00 (ACHTUNG, andere Uhrzeit als sonst!) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
+<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 3)  
 <i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/7j6qRkux3) </br>
 <i class="fa fa-info-circle"></i> Freies Tanzen mit Lisa Horvath lädt dich ein, aus dem Kopf in den Körper zu kommen und deiner eigenen Bewegung einfach zu folgen. Zwischen leichten und langsamen, kraftvollen und dynamischen Phasen entsteht Raum für Präsenz, Authentizität und Lebendigkeit. </br>
@@ -54,7 +54,7 @@ Lisa Horvath ist in der Ausbildung zur 5Rhythmen-Lehrerin. [Hier](https://www.ti
 
 <i class="fa-solid fa-calendar"></i> Freitag, 23. Oktober 2026  
 <i class="fa-solid fa-clock"></i> 18:30–20:30 (bitte bis 18:15 da sein) </br>
-<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
+<i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 5)  
 <i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/6zSAPRunS)
 
