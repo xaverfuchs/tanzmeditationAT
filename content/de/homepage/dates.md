@@ -47,7 +47,7 @@ Wir informieren auch über einen **Newsletter** und die **WhatsApp-Gruppe**. Ihr
 
 ---
 
-### Helloween-Themen-Wave mit Arthur Loki
+### Helloween-Special-Wave mit Arthur Loki
 {{% container class="image-right" %}}
 {{< figure src="/images/Helloween-Wave26.jpg" class="img-right" width="250" >}}
 
