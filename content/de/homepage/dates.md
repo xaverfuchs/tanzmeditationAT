@@ -47,16 +47,16 @@ Wir informieren auch über einen **Newsletter** und die **WhatsApp-Gruppe**. Ihr
 
 ---
 
-### Helloween-Special-Wave mit Arthur Loki
+### Halloween-Special-Wave mit Arthur Loki
 {{% container class="image-right" %}}
-{{< figure src="/images/Helloween-Wave26.jpg" class="img-right" width="250" >}}
+{{< figure src="/images/Halloween-Wave26.jpg" class="img-right" width="250" >}}
 
 <i class="fa-solid fa-calendar"></i> Samstag, 31. Oktober 2026  
 <i class="fa-solid fa-clock"></i> 18:30–21:00 (bitte bis 18:15 da sein) </br>
 <i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 1)  
 <i class="fa-solid fa-euro-sign"></i> 30 Euro, reduziert 25 Euro </br>
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/7WptF7EX7) </br>
-<i class="fa fa-info-circle"></i> Helloween-Themen Wave. Dies ist eine "extended" Wave (2,5 Stunden). Es ist auch eine Shadow-Wave, es könnte also etwas tiefer und etwas dunkler werden 🎃. </br>
+<i class="fa fa-info-circle"></i> Halloween-Themen Wave. Dies ist eine "extended" Wave (2,5 Stunden). Es ist auch eine Shadow-Wave, es könnte also etwas tiefer und etwas dunkler werden 🎃. </br>
 
 {{% /container %}}
 
@@ -74,7 +74,7 @@ Wir informieren auch über einen **Newsletter** und die **WhatsApp-Gruppe**. Ihr
 <i class="fa fa-info-circle"></i> Dies ist eine "extended" Wave (2,5 Stunden).
 {{% /container %}}
 
-🚨 **Wichtig: Begrenzter Platz im Raum**. Bei diesem Termin könnte der Raum ausgelastet werden, weil "nur" 35 Tänzer*innen Platz haben. Wenn Du sicher sein willst, dass Du auch reinkommst, dann sicher Dir einen Garantieplatz. Schreibe dazu eine Mail tanzmeditation.sbg@gmail.com. 
+🚨 **Wichtig: Begrenzter Platz im Raum**. Bei diesem Termin könnte der Raum ausgelastet werden, weil "nur" 35 Tänzer*innen Platz haben. Wenn Du sicher sein willst, dass Du auch reinkommst, dann sichere Dir einen Garantieplatz. Schreibe dazu eine Mail an tanzmeditation.sbg@gmail.com. 
 Du bekommst dann Infos zur Vorab-Überweisung per Mail und wir sichern Dir dann einen Platz. 
 Wir geben vor der Wave noch per [Verteiler und in der WhatsApp-Gruppe](#kontakt) bekannt, wie viele Plätze noch vorhanden sind. </br>
 

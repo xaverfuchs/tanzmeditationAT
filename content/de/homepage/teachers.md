@@ -6,7 +6,7 @@ weight: 6
 header_menu: true
 ---
 
-Bei uns unterrichten Lehrer*innen mit einer abgeschlossen Ausbildung als 5Rhythmen®-Teacher.
+Bei uns unterrichten Lehrer*innen mit einer abgeschlossenen Ausbildung als 5Rhythmen®-Teacher.
 Momentan unterrichten bei uns regelmäßig:
 
 {{% container class="image-left" %}}
