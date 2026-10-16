@@ -14,9 +14,7 @@ Für weitere Infos siehe unten unter [Teilnahme](#teilnahme).
 Unsere Veranstaltungen findet ihr auch auf unserer [**Facebook-Seite**](https://www.facebook.com/profile.php?id=61580864462245).
 Wir informieren auch über einen **Newsletter** und die **WhatsApp-Gruppe**. Ihr könnt euch gern [**hier**](#kontakt) anmelden. 
 
-
 ----
-
 
 ### Freitags-Wave mit Felicitas Franz
 {{% container class="image-right" %}}
@@ -27,6 +25,21 @@ Wir informieren auch über einen **Newsletter** und die **WhatsApp-Gruppe**. Ihr
 <i class="fa-solid fa-location-dot"></i> [Probehaus Salzburg](#locations) (Proberaum 5)  
 <i class="fa-solid fa-euro-sign"></i> 15-25 Euro, siehe [Preise](#teilnahme) </br>
 <i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/6fAH01PgV)
+
+{{% /container %}}
+
+
+---
+
+### Outdoor Autumn Wave mit Kopfhörern mit Felicitas Franz
+{{% container class="image-right" %}}
+{{< figure src="/images/AutumnWave.jpg" class="img-right" width="250" >}}
+
+<i class="fa-solid fa-calendar"></i> Samstag, 24. Oktober 2026  
+<i class="fa-solid fa-clock"></i> 10:30–12:30 </br>
+<i class="fa-solid fa-location-dot"></i> Treffpunkt am Mönchsberg bei der [Buddhistischen Stupa](https://www.stupa-salzburg.at/). [Hier ein Link zu Google Maps](https://maps.app.goo.gl/QwUQdZL3oyMVrgcc8)  
+<i class="fa-solid fa-euro-sign"></i> 20 Euro in die Blechbüchse legen </br>
+<i class="fab fa-facebook"></i> [Event bei Facebook](https://fb.me/e/6fAH01PgV) </br>
 
 {{% /container %}}
 
