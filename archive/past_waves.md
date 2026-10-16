@@ -12,6 +12,14 @@
 
 {{% /container %}}
 
+
+**Weitere Infos** </br>
+<i class="fa-solid fa-headphones"></i> Wir tanzen mit Kopfhörern und die Zahl Teilnehmer*innen ist daher begrenzt. Wir bitten daher für die Planbarkeit um eine Anmeldung per Mail an tanzmeditation.sbg@gmail.com bis 3 Tage vorher. </br>
+<i class="fa-solid fa-mountain-sun"></i> Wir tanzen draußen. Es ist sehr empfohlen, für kurzfristige, z.B. wetterbedingte Planänderungen dem WhatsApp-Kanal (siehe unten bei [Kontakt](#kontakt)) beizutreten oder sich bei unklarer Wetterlage per Mail zu informieren, ob das Event stattfindet. </br>
+
+---
+
+
 <!--
 
 ### Freitags-Wave mit Felicitas Franz
@@ -27,15 +35,6 @@
 {{% /container %}}
 
 -->
-
-
-**Weitere Infos** </br>
-<i class="fa-solid fa-headphones"></i> Wir tanzen mit Kopfhörern und die Zahl Teilnehmer*innen ist daher begrenzt. Wir bitten daher für die Planbarkeit um eine Anmeldung per Mail an tanzmeditation.sbg@gmail.com bis 3 Tage vorher. </br>
-<i class="fa-solid fa-mountain-sun"></i> Wir tanzen draußen. Es ist sehr empfohlen, für kurzfristige, z.B. wetterbedingte Planänderungen dem WhatsApp-Kanal (siehe unten bei [Kontakt](#kontakt)) beizutreten oder sich bei unklarer Wetterlage per Mail zu informieren, ob das Event stattfindet. </br>
-
----
-
-
 
 
 ### Freitags-Emerging-Wave mit Sylvia Höfer
