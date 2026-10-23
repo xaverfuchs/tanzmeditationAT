@@ -6,6 +6,9 @@ weight: 1
 header_menu: true
 ---
 
+<p style="color: red; font-size: 200%;">Wichtig: die Outdoor-Wave am 24.10 ist wetterbedingt abgesagt 🌧️🥶</p>
+
+
 Aktuell sind die unten gelisteten Waves (~2 Stunden Tanz-Events) geplant. 
 Alle Waves werden von ausgebildeten 5Rhythmen-Lehrer\*innen unterrichtet.
 Alle Angebote richten sich ausdrücklich auch an Anfänger\*innen! 
@@ -31,7 +34,7 @@ Wir informieren auch über einen **Newsletter** und die **WhatsApp-Gruppe**. Ihr
 
 ---
 
-### Outdoor Autumn Wave mit Kopfhörern mit Felicitas Franz
+### WEGEN WETTER ABGESAGT: Outdoor Autumn Wave mit Kopfhörern mit Felicitas Franz
 {{% container class="image-right" %}}
 {{< figure src="/images/AutumnWave.jpg" class="img-right" width="250" >}}
 
@@ -49,9 +52,6 @@ Wir informieren auch über einen **Newsletter** und die **WhatsApp-Gruppe**. Ihr
 <i class="fa-solid fa-mountain-sun"></i> Wir tanzen draußen. Es ist sehr empfohlen, für kurzfristige, z.B. wetterbedingte Planänderungen dem WhatsApp-Kanal (siehe unten bei [Kontakt](#kontakt)) beizutreten oder sich bei unklarer Wetterlage per Mail zu informieren, ob das Event stattfindet. </br>
 
 ---
-
----
-
 
 ### Freitags-Wave mit Arthur Loki
 {{% container class="image-right" %}}
