@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Share-Bilder (werden mit R/make_share_images.R erzeugt)
+share_images/

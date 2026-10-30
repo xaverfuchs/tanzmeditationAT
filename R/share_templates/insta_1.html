@@ -1,0 +1,24 @@
+<!doctype html>
+<!-- Instagram, eine Wave (1080 x 1350). Platzhalter in {{ }} füllt das R-Skript. -->
+<html lang="de"><head><meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+<style>
+  body { width: 1080px; height: 1350px; display: flex; flex-direction: column; }
+  .bild { width: 1080px; height: 1080px; object-fit: cover; display: block; }
+  .text { flex: 1; display: flex; flex-direction: column; justify-content: center; align-items: center;
+          text-align: center; border-top: 6px solid #C38B34; }
+  .big { font-size: 56px; line-height: 1.15; }
+  .zeile { font-size: 36px; margin-top: 6px; }
+  .klein { font-size: 28px; margin-top: 4px; color: #555; }
+  .fuss { display: flex; align-items: center; gap: 12px; font-size: 30px; margin-top: 14px; }
+  .fuss img { width: 44px; height: 44px; }
+</style></head>
+<body>
+  <img class="bild" src="../../static{{image1}}">
+  <div class="text">
+    <div class="big">{{date1}}</div>
+    <div class="zeile">{{time1}} · {{place1}}</div>
+    <div class="klein">{{extra1}}</div>
+    <div class="fuss"><img src="../../static/images/logo_splash.png"><span>{{price1}} · <span class="url">tanzmeditation.at</span></span></div>
+  </div>
+</body></html>
