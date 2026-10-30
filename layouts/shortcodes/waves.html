@@ -1,0 +1,42 @@
+{{- /*
+  Listet alle kommenden Waves aus content/de/homepage/waves/*.md
+  (eine Datei pro Wave: Angaben im YAML-Kopf, Beschreibung als Text darunter).
+  Kurzer Hinweis: Feld "info" im Kopf (erscheint mit (i)-Symbol neben dem Bild).
+  Text unter dem Kopf erscheint unterhalb des Kastens in voller Breite.
+  Vergangene Waves (Datum vor dem Build-Tag) werden automatisch ausgeblendet.
+  Jede Wave bekommt einen Anker: tanzmeditation.at/#wave-JJJJ-MM-TT
+  (bei zwei Waves am selben Tag im Kopf ein eigenes Feld "id" setzen).
+*/ -}}
+{{- $today := now.Format "2006-01-02" -}}
+{{- $waves := slice -}}
+{{- $bundle := .Page.GetPage "/homepage" | default (site.GetPage "/homepage") -}}
+{{- range $bundle.Resources.Match "waves/*.md" -}}
+  {{- if ge (.Date.Format "2006-01-02") $today -}}
+    {{- $waves = $waves | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- range sort $waves "Date" }}
+{{- $p := .Params }}
+{{- $id := $p.id | default (printf "wave-%s" (.Date.Format "2006-01-02")) }}
+<h3 id="{{ $id }}">{{ .Title }}</h3>
+<div class="container image-right">
+  <figure class="img-right"><img src="{{ $p.image }}" width="250" alt="{{ .Title }}">
+</figure>
+<div class="wave-text">
+<p><i class="fa-solid fa-calendar"></i> {{ time.Format ":date_full" .Date }}<br>
+<i class="fa-solid fa-clock"></i> {{ $p.time }}{{ with $p.arrival }} ({{ . }}){{ end }}<br>
+<i class="fa-solid fa-location-dot"></i> <a href="{{ $p.place_link | default "/#locations" }}">{{ $p.place }}</a>{{ with $p.room }} ({{ . }}){{ end }}<br>
+<i class="fa-solid fa-euro-sign"></i> {{ $p.price | markdownify }}
+{{- with $p.facebook }}<br>
+<i class="fab fa-facebook"></i> <a href="{{ . }}">Event bei Facebook</a>{{ end }}<br>
+<i class="fa-solid fa-link"></i> <a href="#{{ $id }}">Link zu dieser Wave</a></p>
+{{- with $p.info }}
+<p><i class="fa fa-info-circle"></i> {{ . | markdownify }}</p>
+{{- end }}
+</div>
+</div>
+{{ .Content }}
+<hr>
+{{- else }}
+<p>Derzeit sind keine Waves angekündigt. Infos zu neuen Terminen gibt es über den <a href="#kontakt">Newsletter und den WhatsApp-Kanal</a>.</p>
+{{- end }}

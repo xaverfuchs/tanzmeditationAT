@@ -96,3 +96,15 @@ figure.img-right img {
 }
 
 
+
+
+/* Beim Aufruf eines Wave-Links den Titel nicht unter dem Menü verstecken */
+h3[id^="wave-"] { scroll-margin-top: 80px; }
+
+/* Textspalte einer Wave neben dem Bild */
+.container .wave-text { flex: 1; }
+.container .wave-text p { margin: 0 0 0.8em 0; }
+
+/* Bild neben der Wave nicht schrumpfen lassen, wenn der Text lang ist */
+.container figure { flex-shrink: 0; }
+@media (max-width: 768px) { .container figure { flex-shrink: 1; } }

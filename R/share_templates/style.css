@@ -1,0 +1,14 @@
+/* Gemeinsames Aussehen aller Share-Bilder (Farben und Schriften wie auf der Website) */
+@font-face { font-family: "Open Sans"; font-weight: 700; src: url("../../themes/hugo-scroll/static/webfonts/open-sans-v27-latin-700.woff2"); }
+@font-face { font-family: "Roboto Slab"; font-weight: 400; src: url("../../themes/hugo-scroll/static/webfonts/roboto-slab-v16-latin-regular.woff2"); }
+@font-face { font-family: "Roboto Slab"; font-weight: 700; src: url("../../themes/hugo-scroll/static/webfonts/roboto-slab-v16-latin-700.woff2"); }
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: "Roboto Slab", serif; color: #1A1A1A; background: #fff; overflow: hidden; }
+h1, h2, .big { font-family: "Open Sans", sans-serif; font-weight: 700; }
+.gold { color: #C38B34; }
+.dark { background: #1A1A1A url("../../static/images/pattern-dark.png"); color: #E0DED7; }
+.light { background: #fff url("../../static/images/pattern-light4.png") center / cover; }
+.url { font-family: "Open Sans", sans-serif; font-weight: 700; color: #C38B34; }
+.shadow { box-shadow: 0 3px 8px rgba(0, 0, 0, .25); }
+div:empty { display: none; }   /* leere Zeilen (z. B. ohne "extra") ausblenden */

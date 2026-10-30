@@ -1,0 +1,39 @@
+<!doctype html>
+<!-- Instagram, zwei Waves (1080 x 1350). Platzhalter in {{ }} füllt das R-Skript. -->
+<html lang="de"><head><meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+<style>
+  body { width: 1080px; height: 1350px; display: flex; flex-direction: column; }
+  header { height: 266px; padding-top: 18px; text-align: center; }
+  header img { width: 84px; height: 84px; }
+  h1 { font-size: 50px; margin-top: 20px; }
+  .sub { font-size: 33px; margin-top: 6px; }
+  main { flex: 1; padding: 44px 58px 0; }
+  .wave { display: flex; justify-content: space-between; gap: 30px; }
+  .wave img { width: 432px; height: 432px; object-fit: cover; }
+  h2 { font-size: 44px; margin-bottom: 34px; }
+  .zeile { font-size: 31px; margin-bottom: 8px; }
+  hr { border: none; border-top: 1px solid #8C8C8C; margin: 32px 0; }
+  footer { text-align: center; font-size: 31px; padding-bottom: 42px; }
+</style></head>
+<body class="light">
+  <header class="dark">
+    <img src="../../static/images/logo_splash.png">
+    <h1 class="gold">{{title}}</h1>
+    <div class="sub">{{subtitle}}</div>
+  </header>
+  <main>
+    <div class="wave">
+      <div><h2>{{name1}}</h2><div class="zeile"><b>{{date1}}</b></div><div class="zeile">{{time1}}</div>
+           <div class="zeile">{{place1}}</div><div class="zeile">{{extra1}}</div><div class="zeile">{{price1}}</div></div>
+      <img class="shadow" src="../../static{{image1}}">
+    </div>
+    <hr>
+    <div class="wave">
+      <div><h2>{{name2}}</h2><div class="zeile"><b>{{date2}}</b></div><div class="zeile">{{time2}}</div>
+           <div class="zeile">{{place2}}</div><div class="zeile">{{extra2}}</div><div class="zeile">{{price2}}</div></div>
+      <img class="shadow" src="../../static{{image2}}">
+    </div>
+  </main>
+  <footer>Alle Infos: <span class="url">tanzmeditation.at</span></footer>
+</body></html>

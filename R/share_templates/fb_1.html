@@ -1,0 +1,28 @@
+<!doctype html>
+<!-- Facebook, eine Wave (1200 x 630). Platzhalter in {{ }} füllt das R-Skript. -->
+<html lang="de"><head><meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+<style>
+  body { width: 1200px; height: 630px; display: flex; }
+  .bild { width: 630px; height: 630px; object-fit: cover; display: block; }
+  .text { flex: 1; display: flex; flex-direction: column; justify-content: center; padding: 0 50px;
+          border-left: 6px solid #C38B34; }
+  h2 { font-size: 30px; }
+  .big { font-size: 44px; line-height: 1.15; margin: 14px 0 18px; }
+  .zeile { font-size: 28px; line-height: 1.45; }
+  .klein { font-size: 24px; color: #555; margin-top: 6px; }
+  .fuss { display: flex; align-items: center; gap: 12px; font-size: 26px; margin-top: 34px; }
+  .fuss img { width: 46px; height: 46px; }
+</style></head>
+<body>
+  <img class="bild" src="../../static{{image1}}">
+  <div class="text">
+    <h2 class="gold">{{name1}}</h2>
+    <div class="big">{{date1}}</div>
+    <div class="zeile">{{time1}}</div>
+    <div class="zeile">{{place1}}</div>
+    <div class="zeile">{{price1}}</div>
+    <div class="klein">{{extra1}}</div>
+    <div class="fuss"><img src="../../static/images/logo_splash.png"><span class="url">tanzmeditation.at</span></div>
+  </div>
+</body></html>
