@@ -4,15 +4,15 @@ Jede Wave steht in einer eigenen Markdown-Datei im Ordner `content/de/homepage/w
 
 ## 1. Neue Wave anlegen
 
-1. Im Ordner `content/de/homepage/waves/` eine vorhandene Datei kopieren und umbenennen: `JJJJ-MM-TT-name.md`, z. B. `2027-01-15-felicitas.md`.
+1. Im Ordner `content/de/homepage/waves/` eine vorhandene Datei kopieren und umbenennen: `JJJJ-MM-TT-name.md`, z. B. `2027-01-15-NAME.md`.
 2. Den Kopf (zwischen den `---`) ausfüllen. Längere Texte (z. B. ein wichtiger Hinweis) kommen darunter in den Text der Datei:
 
 ```markdown
 ---
-title: "Freitags-Wave mit Felicitas Franz"   # Überschrift auf der Website
+title: "Freitags-Wave mit NAME"   # Überschrift auf der Website
 date: 2027-01-15                             # Pflicht
-teacher: "Felicitas Franz"                   # für den Untertitel der Share-Bilder
-image: "/images/Wave_Felicitas.jpg"          # quadratisches Bild aus static/images/
+teacher: "NAME"                   # für den Untertitel der Share-Bilder
+image: "/images/Wave_NAME.jpg"          # quadratisches Bild aus static/images/
 time: "18:30–20:30"
 arrival: "bitte bis 18:15 da sein"           # optional
 place: "Probehaus Salzburg"
@@ -23,7 +23,7 @@ facebook: "https://fb.me/e/..."              # optional
 info: 'Dies ist eine "extended" Wave (2,5 Stunden).'   # optional, kurzer Hinweis mit (i)-Symbol
 # nur für die Share-Bilder (kurz halten):
 share_name: "Freitags-Wave"                  # max. ca. 16 Zeichen
-share_price: "15–25 € · Drop-in"
+share_price: "15–25 € · Drop-in"             # optional; weglassen = kein Preis auf dem Bild
 share_extra: "Extended Wave · 2,5 Stunden"   # optional, zusätzliche Zeile
 # Nicht als eigener Abschnitt der Startseite anzeigen (immer so lassen):
 detailed_page_homepage_content: false
@@ -36,7 +36,7 @@ Er erscheint unterhalb des Kastens mit Bild in voller Breite.
 3. Website bauen wie gewohnt: `blogdown::build_site()` (oder `blogdown::serve_site()` zum Anschauen).
 
 **Hinweise**
-- Die Zeile `detailed_page_homepage_content: false` muss in jeder Wave-Datei stehen. Ohne sie würde das Theme die Wave als eigenen Abschnitt auf der Startseite zeigen.
+- Die Zeile `detailed_page_homepage_content: false` muss in jeder Wave-Datei stehen. Das Theme macht aus jeder Datei im Ordner `homepage` einen eigenen Abschnitt der Startseite (mit Menüpunkt). Diese Zeile nimmt die Wave davon aus, damit sie nur in der Liste unter "Waves" erscheint.
 - Vergangene Waves verschwinden beim nächsten Build automatisch von der Seite. Die Datei kann liegen bleiben (als Archiv) oder gelöscht werden.
 - Die Reihenfolge ergibt sich aus dem Datum.
 - Zwei Waves am selben Tag: in einer der Dateien zusätzlich `id: "wave-2027-01-15-abend"` setzen.
@@ -59,23 +59,27 @@ source("R/make_share_images.R")
 
 make_share_images("2027-01-15")                    # eine Wave
 make_share_images(c("2027-01-15", "2027-01-16"))   # zwei Waves auf einem Bild
+make_share_images("2027-01-15", heute = TRUE)     # "Heute Abend"-Bild für den Tag selbst
 make_share_images(c("2027-01-15", "2027-01-16"),
                   title = "5Rhythmen tanzen im Jänner",
-                  subtitle = "mit Felicitas Franz in Salzburg")  # Titel selbst wählen
+                  subtitle = "mit NAME in Salzburg")  # Titel selbst wählen
 ```
 
 Ergebnis im Ordner `share_images/` (wird nicht auf die Website hochgeladen und nicht in git gespeichert):
 - `…_insta.png`: 1080 × 1350 (Instagram, 4:5)
 - `…_fb.png`: 1200 × 630 (Facebook, Querformat)
+- `…_heute.png`: 1080 × 1350, "HEUTE ABEND 🧂🌊 18:30 / (Ankunft bis 18:15) / Probehaus Salzburg" über dem Bild. Die Ankunftszeit kommt aus `arrival`.
 
 **Aussehen ändern:** Das Design steht in den HTML-Vorlagen in `R/share_templates/`, nicht im R-Skript:
 - `insta_1.html`, `fb_1.html`: eine Wave (großes Bild, Text darunter bzw. daneben)
+- `heute.html`: "Heute Abend"-Version
 - `insta_2.html`, `fb_2.html`: zwei Waves mit dunklem Titelbalken
 - `style.css`: gemeinsame Schriften und Farben
 
 Die Vorlagen lassen sich direkt im Browser öffnen (dann stehen dort noch die Platzhalter wie `{{date1}}`). Schriftgrößen, Abstände und Reihenfolge lassen sich dort wie auf einer Webseite ändern.
 
-Verfügbare Platzhalter: `{{title}}`, `{{subtitle}}` und pro Wave (1 bzw. 2): `{{name1}}`, `{{date1}}`, `{{time1}}`, `{{place1}}`, `{{price1}}`, `{{extra1}}`, `{{image1}}`.
-Sie kommen aus der Wave-Datei: `share_name` (sonst `title`), Datum, `time`, `place`, `share_price` (sonst `price`), `share_extra`, `image`.
+Verfügbare Platzhalter: `{{title}}`, `{{subtitle}}` und pro Wave (1 bzw. 2): `{{name1}}`, `{{date1}}` (Samstag, 28. November), `{{weekday1}}`, `{{day1}}` (28. November), `{{time1}}` (19:00–21:30), `{{start1}}` (19:00), `{{arrival1}}` ((Ankunft bis 18:45)), `{{place1}}`, `{{price1}}`, `{{extra1}}`, `{{details1}}` (extra und Preis zusammen), `{{image1}}`.
+Die große, fette Plakatschrift bekommt ein Element mit `class="plakat"`.
+Sie kommen aus der Wave-Datei: `share_name` (sonst `title`), Datum, `time`, `place`, `share_price`, `share_extra`, `image`.
 
 Falls Chrome woanders liegt: `Sys.setenv(CHROME_PATH = "/Pfad/zu/Chrome")`.

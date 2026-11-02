@@ -14,8 +14,9 @@
 #   make_share_images("2026-11-28")                  # eine Wave
 #   make_share_images(c("2026-10-30", "2026-10-31")) # zwei Waves auf einem Bild
 #   make_share_images(c("2026-10-30", "2026-10-31"), title = "Halloween-Wochenende")
+#   make_share_images("2026-11-28", heute = TRUE)   # "Heute Abend"-Bild für den Tag selbst
 
-make_share_images <- function(dates, title = NULL, subtitle = NULL,
+make_share_images <- function(dates, title = NULL, subtitle = NULL, heute = FALSE,
                               chrome = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome") {
   if (Sys.getenv("CHROME_PATH") != "") chrome <- Sys.getenv("CHROME_PATH")
   tpl_dir <- "R/share_templates"
@@ -44,17 +45,26 @@ make_share_images <- function(dates, title = NULL, subtitle = NULL,
     d <- as.POSIXlt(as.Date(w$date))
     values[[paste0("name",  i)]] <- w$share_name %||% w$title
     values[[paste0("date",  i)]] <- sprintf("%s, %d. %s", tage[d$wday + 1], d$mday, monate[d$mon + 1])
+    values[[paste0("weekday", i)]] <- tage[d$wday + 1]                       # "Samstag"
+    values[[paste0("day", i)]] <- sprintf("%d. %s", d$mday, monate[d$mon + 1])  # "28. November"
     values[[paste0("time",  i)]] <- w$time
     values[[paste0("place", i)]] <- w$place
-    values[[paste0("price", i)]] <- w$share_price %||% w$price
+    values[[paste0("price", i)]] <- w$share_price %||% ""   # leer = kein Preis auf dem Bild
     values[[paste0("extra", i)]] <- w$share_extra %||% ""
     values[[paste0("image", i)]] <- w$image
+    values[[paste0("start", i)]] <- sub("^([0-9]{1,2}[:.][0-9]{2}).*", "\\1", w$time, useBytes = TRUE)   # "19:00–21:30" -> "19:00"
+    values[[paste0("details", i)]] <- paste(c(w$share_extra, w$share_price), collapse = " \u00b7 ")
+    ankunft <- regmatches(w$arrival %||% "", regexpr("[0-9]{1,2}[:.][0-9]{2}", w$arrival %||% ""))
+    values[[paste0("arrival", i)]] <- if (length(ankunft)) paste0("(Ankunft bis ", ankunft, ")") else ""
   }
 
+  values <- lapply(values, function(v) { Encoding(v) <- "UTF-8"; v })   # Umlaute (z. B. Jänner) sicher
+
   # 3. Für jedes Format: Vorlage füllen, Screenshot machen
-  sizes <- list(insta = c(1080, 1350), fb = c(1200, 630))
+  sizes <- if (heute) list(heute = c(1080, 1350)) else list(insta = c(1080, 1350), fb = c(1200, 630))
   for (format in names(sizes)) {
-    html <- readLines(file.path(tpl_dir, sprintf("%s_%d.html", format, length(waves))), encoding = "UTF-8")
+    tpl <- if (heute) "heute.html" else sprintf("%s_%d.html", format, length(waves))
+    html <- readLines(file.path(tpl_dir, tpl), encoding = "UTF-8")
     for (key in names(values)) html <- gsub(sprintf("{{%s}}", key), values[[key]], html, fixed = TRUE)
     tmp <- file.path(tpl_dir, "_tmp.html")   # im Vorlagen-Ordner, damit die Bildpfade stimmen
     writeLines(enc2utf8(html), tmp, useBytes = TRUE)

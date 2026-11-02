@@ -1,0 +1,22 @@
+<!doctype html>
+<!-- "Heute Abend" für Instagram / WhatsApp (1080 x 1350). Platzhalter in {{ }} füllt das R-Skript. -->
+<html lang="de"><head><meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+<style>
+  body { width: 1080px; height: 1350px; display: flex; flex-direction: column; }
+  .band { flex: 1; display: flex; flex-direction: column; justify-content: center; align-items: center;
+          text-align: center; line-height: 1.08; }
+  .band .plakat { color: #fff; }
+  .heute   { font-size: 76px; }
+  .ankunft { font-size: 46px; margin-top: 4px; }
+  .ort     { font-size: 70px; margin-top: 6px; }
+  .bild { width: 1080px; height: 1080px; object-fit: cover; display: block; }
+</style></head>
+<body>
+  <div class="band dark">
+    <div class="plakat heute">HEUTE ABEND 🧂🌊 {{start1}}</div>
+    <div class="plakat ankunft">{{arrival1}}</div>
+    <div class="plakat ort">{{place1}}</div>
+  </div>
+  <img class="bild" src="../../static{{image1}}">
+</body></html>
