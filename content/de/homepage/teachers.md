@@ -11,7 +11,7 @@ Momentan unterrichten bei uns regelmäßig:
 
 {{% container class="image-left" %}}
 
-{{< figure src="/images/Felicitas2.jpg" class="img-left" width="300" >}}
+{{< figure src="/images/Felicitas2.jpg" alt="Felicitas Franz, 5Rhythmen-Lehrerin" class="img-left" width="300" >}}
 
 **Felicitas Franz** vermittelt die 5Rhythmen als klare, einfache und zugleich freie Bewegungspraxis. 
 Jede Wave lädt ein, den eigenen Körperausdruck zu genießen und über intuitive Bewegung den/die innere Tänzer*in hervortreten zu lassen.
@@ -25,7 +25,7 @@ Dabei greift sie auf die Essenz der 5Rhythmen zurück: eine Reise durch den Kör
 ------
 
 {{% container class="image-right" %}}
-{{< figure src="/images/Arthur.jpg" class="img-right" width="300" >}}
+{{< figure src="/images/Arthur.jpg" alt="Arthur Ellert, 5Rhythmen-Lehrer" class="img-right" width="300" >}}
 
 **Arthur Ellert** gestaltet seine Waves mit Klarheit und Wärme und schafft ein Umfeld, in dem Tanz zur lebendigen Meditation wird – ein Weg, um sich selbst näherzukommen und die eigene Lebendigkeit neu zu erfahren.
 Seine Waves laden dazu ein, tiefer im eigenen Körper anzukommen und ihn nicht als bloßes Gefährt, 

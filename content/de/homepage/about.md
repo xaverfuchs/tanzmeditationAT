@@ -12,13 +12,13 @@ Dafür haben sie seit Herbst 2025 die Eventreihe "Salzburg Waves" zu 5Rhythmen i
 ![Salzburg Wave](images/salzburg_waves.jpg)
 
 
-### Organisator*innen 
+### Wer wir sind 
 
 {{% container class="image-left" %}}
 
-{{< figure src="/images/Xaver.jpg" class="img-left" width="200" >}}
+{{< figure src="/images/Xaver.jpg" alt="Xaver Fuchs, Veranstalter und Organisator der Salzburg Waves" class="img-left" width="200" >}}
 
-**Xaver Fuchs** Organisation und Host; sonst Psychologe, Wissenschaftler, Musiker.
+**Xaver Fuchs** Veranstalter, Organisator und Host; sonst Psychologe, Wissenschaftler, Musiker.
 </br> **Links:** [<i class="fas fa-globe"></i>](https://www.xaverfuchs.de) [<i class="fab fa-facebook"></i>](https://www.facebook.com/xaver.fuchs.98/) [<i class="fa fa-envelope"></i>](mailto:xfuchs@gmx.de)
 
 {{% /container %}}
@@ -26,9 +26,9 @@ Dafür haben sie seit Herbst 2025 die Eventreihe "Salzburg Waves" zu 5Rhythmen i
 ------
 
 {{% container class="image-right" %}}
-{{< figure src="/images/Lisa.jpg" class="img-right" width="250" >}}
+{{< figure src="/images/Lisa.jpg" alt="Lisa Moser, Kooperationspartnerin und Unterstützerin der Salzburg Waves" class="img-right" width="250" >}}
 
-**Lisa Moser** Veranstalterin, Lehrerin für bewussten Tanz, Coach und Supervision.
+**Lisa Moser** Kooperationspartnerin und Unterstützerin; sonst Lehrerin für bewussten Tanz, Coach und Supervisorin. Lisa hat in Salzburg schon früher 5Rhythmen-Abende veranstaltet. Daran knüpfen die Salzburg Waves an.
 </br> **Links:** [<i class="fas fa-globe"></i>](https://danceworks.at/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/profile.php?id=100088366505568) [<i class="fa fa-envelope"></i>](mailto:lisa@abundance.at)
 
 

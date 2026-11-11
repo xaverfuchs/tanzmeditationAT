@@ -45,7 +45,7 @@ enableEmoji = true
     title = "Tanzmeditation Salzburg"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "5Rhythmen und bewusster Tanz in Salzburg"
+    description = "Salzburg Waves: 5Rhythmen-Tanzmeditation in Salzburg. Freies Tanzen ohne Vorkenntnisse, angeleitet von ausgebildeten Lehrer*innen. Drop-in im Probehaus Salzburg."
 
     # Show a menu of languages available
     language_menu = false
@@ -129,7 +129,7 @@ enableEmoji = true
     contentDir = "content/en"
 
   [languages.de]
-    title = "Tanzmeditation"
+    title = "Tanzmeditation Salzburg"
     weight = 20
     contentDir = "content/de"
     languageName = "Deutsch"
