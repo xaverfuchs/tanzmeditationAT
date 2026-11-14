@@ -17,10 +17,14 @@ Das solltet ihr wissen...
 -	Im Probehaus gibt es eine Umkleide und Duschen
 
 ### Infos zu Preisen
-- **Regulärpreis: 25€**
-- **Schnupper-Preis: 15€**, wenn Du zum ersten Mal zu uns kommst
-- **Bring-a-Friend-Preis: 15€**, wenn Du jemanden mitbringst die/der zum ersten Mal kommt
-- Reduzierter Preis: 20€, wenn Du im Moment nicht so viel zahlen kannst oder willst
-- U30 Preis: 20€, wenn Du 30 oder jünger bist
 
+| Preis | Ermäßigung | Wave | Extended Wave |
+|---|---|---|---|
+| **Regulärpreis** | – | **25 €** | **30 €** |
+| **Vieltänzer\*innen-Preis**, wenn Du in den letzten 3 Monaten mindestens zwei Mal da warst | 5 € | 20 € | 25 € |
+| **Reduzierter Preis**, wenn Du im Moment nicht so viel zahlen kannst oder willst | 5 € | 20 € | 25 € |
+| **U30-Preis**, wenn Du 30 oder jünger bist | 5 € | 20 € | 25 € |
+| **Schnupper-Preis**, wenn Du zum ersten Mal zu uns kommst | 10 € | 15 € | 20 € |
+| **Bring-a-Friend-Preis**, wenn Du jemanden mitbringst, die\*der zum ersten Mal kommt | 10 € | 15 € | 20 € |
 
+Die Ermäßigungen lassen sich nicht kombinieren. Bei manchen Waves können die Preise oder Ermäßigungen abweichen; das steht dann beim jeweiligen Termin. Workshops und Outdoor-Waves haben eigene Preise.

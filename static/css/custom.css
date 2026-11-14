@@ -108,3 +108,8 @@ h3[id^="wave-"] { scroll-margin-top: 80px; }
 /* Bild neben der Wave nicht schrumpfen lassen, wenn der Text lang ist */
 .container figure { flex-shrink: 0; }
 @media (max-width: 768px) { .container figure { flex-shrink: 1; } }
+
+/* Tabellen (z. B. Preise): keine grauen Streifen, stattdessen feine Trennlinien */
+table tbody > tr:nth-child(even) { background-color: transparent; }
+table tbody > tr > td,
+table tbody > tr > th { border-bottom: 0px solid var(--color-text); }
