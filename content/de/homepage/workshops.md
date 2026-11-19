@@ -19,11 +19,11 @@ Für die Teilnahme an einem Workshop ist eine Anmeldung nötig. Die Infos dafür
 
 Wenn wir uns beschwert fühlen, sei es durch Dinge in unserem Umfeld, durch Gefühle oder durch Gedanken, fällt es oft schwer, weiterzugehen.
 
-Clutter bedeutet auf Englisch so etwas wie Ballast oder halt das „Gerümpel“, was wir mit uns rumschleppen. Es bezeichnet nicht nur das Sichtbare um uns herum. Es ist auch die innere Schwere, die uns festhält und blockiert.
+Clutter bedeutet auf Englisch so etwas wie Ballast oder halt den „Kladderadatsch“, den wir mit uns rumschleppen. Es bezeichnet nicht nur das Sichtbare um uns herum. Es ist auch die innere Schwere, die uns festhält und blockiert.
 
 In diesem Tanzworkshop nutzen wir die 5Rhythmen-Praxis, um loszulassen, was wir nicht mehr brauchen, und Raum zu schaffen für Klarheit, Leichtigkeit und frische Energie. Mit jedem Schritt machen wir Platz für neue Möglichkeiten.
 
-**Move your Clutter. Beweg dein Gerümpel.**
+**Move your Clutter.**
 
 Alle sind willkommen. Vorerfahrung ist nicht nötig.
 
